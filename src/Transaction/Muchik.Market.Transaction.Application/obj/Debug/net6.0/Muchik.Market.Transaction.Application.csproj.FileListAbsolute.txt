@@ -1,0 +1,11 @@
+E:\Proyectos\trabajo-final-nh\src\Transaction\Muchik.Market.Transaction.Application\bin\Debug\net6.0\Muchik.Market.Transaction.Application.deps.json
+E:\Proyectos\trabajo-final-nh\src\Transaction\Muchik.Market.Transaction.Application\bin\Debug\net6.0\Muchik.Market.Transaction.Application.dll
+E:\Proyectos\trabajo-final-nh\src\Transaction\Muchik.Market.Transaction.Application\bin\Debug\net6.0\Muchik.Market.Transaction.Application.pdb
+E:\Proyectos\trabajo-final-nh\src\Transaction\Muchik.Market.Transaction.Application\obj\Debug\net6.0\Muchik.Market.Transaction.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Proyectos\trabajo-final-nh\src\Transaction\Muchik.Market.Transaction.Application\obj\Debug\net6.0\Muchik.Market.Transaction.Application.AssemblyInfoInputs.cache
+E:\Proyectos\trabajo-final-nh\src\Transaction\Muchik.Market.Transaction.Application\obj\Debug\net6.0\Muchik.Market.Transaction.Application.AssemblyInfo.cs
+E:\Proyectos\trabajo-final-nh\src\Transaction\Muchik.Market.Transaction.Application\obj\Debug\net6.0\Muchik.Market.Transaction.Application.csproj.CoreCompileInputs.cache
+E:\Proyectos\trabajo-final-nh\src\Transaction\Muchik.Market.Transaction.Application\obj\Debug\net6.0\Muchik.Market.Transaction.Application.dll
+E:\Proyectos\trabajo-final-nh\src\Transaction\Muchik.Market.Transaction.Application\obj\Debug\net6.0\refint\Muchik.Market.Transaction.Application.dll
+E:\Proyectos\trabajo-final-nh\src\Transaction\Muchik.Market.Transaction.Application\obj\Debug\net6.0\Muchik.Market.Transaction.Application.pdb
+E:\Proyectos\trabajo-final-nh\src\Transaction\Muchik.Market.Transaction.Application\obj\Debug\net6.0\ref\Muchik.Market.Transaction.Application.dll

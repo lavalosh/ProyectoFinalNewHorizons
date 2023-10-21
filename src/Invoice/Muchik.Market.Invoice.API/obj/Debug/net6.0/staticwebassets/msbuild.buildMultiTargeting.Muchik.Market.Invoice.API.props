@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Muchik.Market.Invoice.API.props" />
+</Project>

@@ -1,0 +1,11 @@
+E:\Proyectos\trabajo-final-nh\src\Invoice\Muchik.Market.Invoice.Domain\bin\Debug\net6.0\Muchik.Market.Invoice.Domain.deps.json
+E:\Proyectos\trabajo-final-nh\src\Invoice\Muchik.Market.Invoice.Domain\bin\Debug\net6.0\Muchik.Market.Invoice.Domain.dll
+E:\Proyectos\trabajo-final-nh\src\Invoice\Muchik.Market.Invoice.Domain\bin\Debug\net6.0\Muchik.Market.Invoice.Domain.pdb
+E:\Proyectos\trabajo-final-nh\src\Invoice\Muchik.Market.Invoice.Domain\obj\Debug\net6.0\Muchik.Market.Invoice.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Proyectos\trabajo-final-nh\src\Invoice\Muchik.Market.Invoice.Domain\obj\Debug\net6.0\Muchik.Market.Invoice.Domain.AssemblyInfoInputs.cache
+E:\Proyectos\trabajo-final-nh\src\Invoice\Muchik.Market.Invoice.Domain\obj\Debug\net6.0\Muchik.Market.Invoice.Domain.AssemblyInfo.cs
+E:\Proyectos\trabajo-final-nh\src\Invoice\Muchik.Market.Invoice.Domain\obj\Debug\net6.0\Muchik.Market.Invoice.Domain.csproj.CoreCompileInputs.cache
+E:\Proyectos\trabajo-final-nh\src\Invoice\Muchik.Market.Invoice.Domain\obj\Debug\net6.0\Muchik.Market.Invoice.Domain.dll
+E:\Proyectos\trabajo-final-nh\src\Invoice\Muchik.Market.Invoice.Domain\obj\Debug\net6.0\refint\Muchik.Market.Invoice.Domain.dll
+E:\Proyectos\trabajo-final-nh\src\Invoice\Muchik.Market.Invoice.Domain\obj\Debug\net6.0\Muchik.Market.Invoice.Domain.pdb
+E:\Proyectos\trabajo-final-nh\src\Invoice\Muchik.Market.Invoice.Domain\obj\Debug\net6.0\ref\Muchik.Market.Invoice.Domain.dll

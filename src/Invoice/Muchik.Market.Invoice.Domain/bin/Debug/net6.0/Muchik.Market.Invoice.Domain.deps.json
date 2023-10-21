@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Muchik.Market.Invoice.Domain/1.0.0": {
+        "runtime": {
+          "Muchik.Market.Invoice.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Muchik.Market.Invoice.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

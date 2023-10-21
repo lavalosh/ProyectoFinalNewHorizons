@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Muchik.Market.Security.API.props" />
+</Project>

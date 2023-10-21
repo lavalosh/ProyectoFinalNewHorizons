@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Muchik.Market.Gateway.API.props" />
+</Project>
