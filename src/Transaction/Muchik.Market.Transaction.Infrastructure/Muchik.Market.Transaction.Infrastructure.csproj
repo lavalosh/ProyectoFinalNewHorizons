@@ -6,4 +6,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\Pay\Muchik.Market.Pay.Infrastructure\Muchik.Market.Pay.Infrastructure.csproj" />
+    <ProjectReference Include="..\Muchik.Market.Transaction.Domain\Muchik.Market.Transaction.Domain.csproj" />
+  </ItemGroup>
+
 </Project>

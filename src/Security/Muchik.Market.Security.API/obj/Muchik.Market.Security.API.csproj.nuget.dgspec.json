@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Proyectos\\trabajo-final-nh\\src\\Security\\Muchik.Market.Security.API\\Muchik.Market.Security.API.csproj": {}
+    "D:\\Martin Avalos\\Capacitaciones\\New Horizons\\Microservicios\\Proyecto Final\\ProyectoFinalNewHorizons\\src\\Security\\Muchik.Market.Security.API\\Muchik.Market.Security.API.csproj": {}
   },
   "projects": {
-    "E:\\Proyectos\\trabajo-final-nh\\src\\Security\\Muchik.Market.Security.API\\Muchik.Market.Security.API.csproj": {
+    "D:\\Martin Avalos\\Capacitaciones\\New Horizons\\Microservicios\\Proyecto Final\\ProyectoFinalNewHorizons\\src\\Security\\Muchik.Market.Security.API\\Muchik.Market.Security.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Proyectos\\trabajo-final-nh\\src\\Security\\Muchik.Market.Security.API\\Muchik.Market.Security.API.csproj",
+        "projectUniqueName": "D:\\Martin Avalos\\Capacitaciones\\New Horizons\\Microservicios\\Proyecto Final\\ProyectoFinalNewHorizons\\src\\Security\\Muchik.Market.Security.API\\Muchik.Market.Security.API.csproj",
         "projectName": "Muchik.Market.Security.API",
-        "projectPath": "E:\\Proyectos\\trabajo-final-nh\\src\\Security\\Muchik.Market.Security.API\\Muchik.Market.Security.API.csproj",
-        "packagesPath": "C:\\Users\\ritua\\.nuget\\packages\\",
-        "outputPath": "E:\\Proyectos\\trabajo-final-nh\\src\\Security\\Muchik.Market.Security.API\\obj\\",
+        "projectPath": "D:\\Martin Avalos\\Capacitaciones\\New Horizons\\Microservicios\\Proyecto Final\\ProyectoFinalNewHorizons\\src\\Security\\Muchik.Market.Security.API\\Muchik.Market.Security.API.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "D:\\Martin Avalos\\Capacitaciones\\New Horizons\\Microservicios\\Proyecto Final\\ProyectoFinalNewHorizons\\src\\Security\\Muchik.Market.Security.API\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\ritua\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -68,7 +72,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

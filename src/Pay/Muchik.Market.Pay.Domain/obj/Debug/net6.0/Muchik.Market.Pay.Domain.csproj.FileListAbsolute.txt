@@ -9,3 +9,15 @@ E:\Proyectos\trabajo-final-nh\src\Pay\Muchik.Market.Pay.Domain\obj\Debug\net6.0\
 E:\Proyectos\trabajo-final-nh\src\Pay\Muchik.Market.Pay.Domain\obj\Debug\net6.0\refint\Muchik.Market.Pay.Domain.dll
 E:\Proyectos\trabajo-final-nh\src\Pay\Muchik.Market.Pay.Domain\obj\Debug\net6.0\Muchik.Market.Pay.Domain.pdb
 E:\Proyectos\trabajo-final-nh\src\Pay\Muchik.Market.Pay.Domain\obj\Debug\net6.0\ref\Muchik.Market.Pay.Domain.dll
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Pay\Muchik.Market.Pay.Domain\bin\Debug\net6.0\Muchik.Market.Pay.Domain.deps.json
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Pay\Muchik.Market.Pay.Domain\bin\Debug\net6.0\Muchik.Market.Pay.Domain.dll
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Pay\Muchik.Market.Pay.Domain\bin\Debug\net6.0\Muchik.Market.Pay.Domain.pdb
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Pay\Muchik.Market.Pay.Domain\obj\Debug\net6.0\Muchik.Market.Pay.Domain.csproj.AssemblyReference.cache
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Pay\Muchik.Market.Pay.Domain\obj\Debug\net6.0\Muchik.Market.Pay.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Pay\Muchik.Market.Pay.Domain\obj\Debug\net6.0\Muchik.Market.Pay.Domain.AssemblyInfoInputs.cache
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Pay\Muchik.Market.Pay.Domain\obj\Debug\net6.0\Muchik.Market.Pay.Domain.AssemblyInfo.cs
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Pay\Muchik.Market.Pay.Domain\obj\Debug\net6.0\Muchik.Market.Pay.Domain.csproj.CoreCompileInputs.cache
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Pay\Muchik.Market.Pay.Domain\obj\Debug\net6.0\Muchik.Market.Pay.Domain.dll
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Pay\Muchik.Market.Pay.Domain\obj\Debug\net6.0\refint\Muchik.Market.Pay.Domain.dll
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Pay\Muchik.Market.Pay.Domain\obj\Debug\net6.0\Muchik.Market.Pay.Domain.pdb
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Pay\Muchik.Market.Pay.Domain\obj\Debug\net6.0\ref\Muchik.Market.Pay.Domain.dll

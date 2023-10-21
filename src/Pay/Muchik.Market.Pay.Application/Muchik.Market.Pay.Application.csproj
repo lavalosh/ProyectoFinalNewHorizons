@@ -6,4 +6,17 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="services\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Transaction\Muchik.Market.Transaction.Application\Muchik.Market.Transaction.Application.csproj" />
+    <ProjectReference Include="..\Muchik.Market.Pay.Domain\Muchik.Market.Pay.Domain.csproj" />
+  </ItemGroup>
+
 </Project>

@@ -9,3 +9,15 @@ E:\Proyectos\trabajo-final-nh\src\Security\Muchik.Market.Security.Domain\obj\Deb
 E:\Proyectos\trabajo-final-nh\src\Security\Muchik.Market.Security.Domain\obj\Debug\net6.0\refint\Muchik.Market.Security.Domain.dll
 E:\Proyectos\trabajo-final-nh\src\Security\Muchik.Market.Security.Domain\obj\Debug\net6.0\Muchik.Market.Security.Domain.pdb
 E:\Proyectos\trabajo-final-nh\src\Security\Muchik.Market.Security.Domain\obj\Debug\net6.0\ref\Muchik.Market.Security.Domain.dll
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Security\Muchik.Market.Security.Domain\bin\Debug\net6.0\Muchik.Market.Security.Domain.deps.json
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Security\Muchik.Market.Security.Domain\bin\Debug\net6.0\Muchik.Market.Security.Domain.dll
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Security\Muchik.Market.Security.Domain\bin\Debug\net6.0\Muchik.Market.Security.Domain.pdb
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Security\Muchik.Market.Security.Domain\obj\Debug\net6.0\Muchik.Market.Security.Domain.csproj.AssemblyReference.cache
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Security\Muchik.Market.Security.Domain\obj\Debug\net6.0\Muchik.Market.Security.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Security\Muchik.Market.Security.Domain\obj\Debug\net6.0\Muchik.Market.Security.Domain.AssemblyInfoInputs.cache
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Security\Muchik.Market.Security.Domain\obj\Debug\net6.0\Muchik.Market.Security.Domain.AssemblyInfo.cs
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Security\Muchik.Market.Security.Domain\obj\Debug\net6.0\Muchik.Market.Security.Domain.csproj.CoreCompileInputs.cache
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Security\Muchik.Market.Security.Domain\obj\Debug\net6.0\Muchik.Market.Security.Domain.dll
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Security\Muchik.Market.Security.Domain\obj\Debug\net6.0\refint\Muchik.Market.Security.Domain.dll
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Security\Muchik.Market.Security.Domain\obj\Debug\net6.0\Muchik.Market.Security.Domain.pdb
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Security\Muchik.Market.Security.Domain\obj\Debug\net6.0\ref\Muchik.Market.Security.Domain.dll

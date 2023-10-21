@@ -9,3 +9,20 @@ E:\Proyectos\trabajo-final-nh\src\Pay\Muchik.Market.Pay.Infrastructure\obj\Debug
 E:\Proyectos\trabajo-final-nh\src\Pay\Muchik.Market.Pay.Infrastructure\obj\Debug\net6.0\refint\Muchik.Market.Pay.Infrastructure.dll
 E:\Proyectos\trabajo-final-nh\src\Pay\Muchik.Market.Pay.Infrastructure\obj\Debug\net6.0\Muchik.Market.Pay.Infrastructure.pdb
 E:\Proyectos\trabajo-final-nh\src\Pay\Muchik.Market.Pay.Infrastructure\obj\Debug\net6.0\ref\Muchik.Market.Pay.Infrastructure.dll
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Pay\Muchik.Market.Pay.Infrastructure\bin\Debug\net6.0\Muchik.Market.Pay.Infrastructure.deps.json
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Pay\Muchik.Market.Pay.Infrastructure\bin\Debug\net6.0\Muchik.Market.Pay.Infrastructure.dll
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Pay\Muchik.Market.Pay.Infrastructure\bin\Debug\net6.0\Muchik.Market.Pay.Infrastructure.pdb
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Pay\Muchik.Market.Pay.Infrastructure\obj\Debug\net6.0\Muchik.Market.Pay.Infrastructure.csproj.AssemblyReference.cache
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Pay\Muchik.Market.Pay.Infrastructure\obj\Debug\net6.0\Muchik.Market.Pay.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Pay\Muchik.Market.Pay.Infrastructure\obj\Debug\net6.0\Muchik.Market.Pay.Infrastructure.AssemblyInfoInputs.cache
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Pay\Muchik.Market.Pay.Infrastructure\obj\Debug\net6.0\Muchik.Market.Pay.Infrastructure.AssemblyInfo.cs
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Pay\Muchik.Market.Pay.Infrastructure\obj\Debug\net6.0\Muchik.Market.Pay.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Pay\Muchik.Market.Pay.Infrastructure\obj\Debug\net6.0\Muchik.Market.Pay.Infrastructure.dll
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Pay\Muchik.Market.Pay.Infrastructure\obj\Debug\net6.0\refint\Muchik.Market.Pay.Infrastructure.dll
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Pay\Muchik.Market.Pay.Infrastructure\obj\Debug\net6.0\Muchik.Market.Pay.Infrastructure.pdb
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Pay\Muchik.Market.Pay.Infrastructure\obj\Debug\net6.0\ref\Muchik.Market.Pay.Infrastructure.dll
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Pay\Muchik.Market.Pay.Infrastructure\bin\Debug\net6.0\Muchik.Market.Pay.Infrastructure.runtimeconfig.json
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Pay\Muchik.Market.Pay.Infrastructure\bin\Debug\net6.0\Muchik.Market.Pay.Domain.dll
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Pay\Muchik.Market.Pay.Infrastructure\bin\Debug\net6.0\Muchik.Market.Pay.Domain.pdb
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Pay\Muchik.Market.Pay.Infrastructure\obj\Debug\net6.0\Muchik.Market.Pay.Infrastructure.csproj.CopyComplete
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Pay\Muchik.Market.Pay.Infrastructure\obj\Debug\net6.0\Muchik.Market.Pay.Infrastructure.genruntimeconfig.cache

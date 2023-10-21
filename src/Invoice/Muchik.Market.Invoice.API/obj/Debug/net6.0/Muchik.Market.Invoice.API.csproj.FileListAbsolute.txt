@@ -30,3 +30,35 @@ E:\Proyectos\trabajo-final-nh\src\Invoice\Muchik.Market.Invoice.API\obj\Debug\ne
 E:\Proyectos\trabajo-final-nh\src\Invoice\Muchik.Market.Invoice.API\obj\Debug\net6.0\Muchik.Market.Invoice.API.pdb
 E:\Proyectos\trabajo-final-nh\src\Invoice\Muchik.Market.Invoice.API\obj\Debug\net6.0\Muchik.Market.Invoice.API.genruntimeconfig.cache
 E:\Proyectos\trabajo-final-nh\src\Invoice\Muchik.Market.Invoice.API\obj\Debug\net6.0\ref\Muchik.Market.Invoice.API.dll
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Invoice\Muchik.Market.Invoice.API\bin\Debug\net6.0\appsettings.Development.json
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Invoice\Muchik.Market.Invoice.API\bin\Debug\net6.0\appsettings.json
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Invoice\Muchik.Market.Invoice.API\bin\Debug\net6.0\Muchik.Market.Invoice.API.exe
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Invoice\Muchik.Market.Invoice.API\bin\Debug\net6.0\Muchik.Market.Invoice.API.deps.json
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Invoice\Muchik.Market.Invoice.API\bin\Debug\net6.0\Muchik.Market.Invoice.API.runtimeconfig.json
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Invoice\Muchik.Market.Invoice.API\bin\Debug\net6.0\Muchik.Market.Invoice.API.dll
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Invoice\Muchik.Market.Invoice.API\bin\Debug\net6.0\Muchik.Market.Invoice.API.pdb
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Invoice\Muchik.Market.Invoice.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Invoice\Muchik.Market.Invoice.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Invoice\Muchik.Market.Invoice.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Invoice\Muchik.Market.Invoice.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Invoice\Muchik.Market.Invoice.API\obj\Debug\net6.0\Muchik.Market.Invoice.API.csproj.AssemblyReference.cache
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Invoice\Muchik.Market.Invoice.API\obj\Debug\net6.0\Muchik.Market.Invoice.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Invoice\Muchik.Market.Invoice.API\obj\Debug\net6.0\Muchik.Market.Invoice.API.AssemblyInfoInputs.cache
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Invoice\Muchik.Market.Invoice.API\obj\Debug\net6.0\Muchik.Market.Invoice.API.AssemblyInfo.cs
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Invoice\Muchik.Market.Invoice.API\obj\Debug\net6.0\Muchik.Market.Invoice.API.csproj.CoreCompileInputs.cache
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Invoice\Muchik.Market.Invoice.API\obj\Debug\net6.0\Muchik.Market.Invoice.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Invoice\Muchik.Market.Invoice.API\obj\Debug\net6.0\Muchik.Market.Invoice.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Invoice\Muchik.Market.Invoice.API\obj\Debug\net6.0\staticwebassets\msbuild.Muchik.Market.Invoice.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Invoice\Muchik.Market.Invoice.API\obj\Debug\net6.0\staticwebassets\msbuild.build.Muchik.Market.Invoice.API.props
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Invoice\Muchik.Market.Invoice.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Muchik.Market.Invoice.API.props
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Invoice\Muchik.Market.Invoice.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Muchik.Market.Invoice.API.props
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Invoice\Muchik.Market.Invoice.API\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Invoice\Muchik.Market.Invoice.API\obj\Debug\net6.0\staticwebassets.build.json
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Invoice\Muchik.Market.Invoice.API\obj\Debug\net6.0\staticwebassets.development.json
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Invoice\Muchik.Market.Invoice.API\obj\Debug\net6.0\scopedcss\bundle\Muchik.Market.Invoice.API.styles.css
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Invoice\Muchik.Market.Invoice.API\obj\Debug\net6.0\Muchik.Market.Invoice.API.csproj.CopyComplete
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Invoice\Muchik.Market.Invoice.API\obj\Debug\net6.0\Muchik.Market.Invoice.API.dll
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Invoice\Muchik.Market.Invoice.API\obj\Debug\net6.0\refint\Muchik.Market.Invoice.API.dll
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Invoice\Muchik.Market.Invoice.API\obj\Debug\net6.0\Muchik.Market.Invoice.API.pdb
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Invoice\Muchik.Market.Invoice.API\obj\Debug\net6.0\Muchik.Market.Invoice.API.genruntimeconfig.cache
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Invoice\Muchik.Market.Invoice.API\obj\Debug\net6.0\ref\Muchik.Market.Invoice.API.dll

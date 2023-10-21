@@ -30,3 +30,35 @@ E:\Proyectos\trabajo-final-nh\src\Security\Muchik.Market.Security.API\obj\Debug\
 E:\Proyectos\trabajo-final-nh\src\Security\Muchik.Market.Security.API\obj\Debug\net6.0\Muchik.Market.Security.API.pdb
 E:\Proyectos\trabajo-final-nh\src\Security\Muchik.Market.Security.API\obj\Debug\net6.0\Muchik.Market.Security.API.genruntimeconfig.cache
 E:\Proyectos\trabajo-final-nh\src\Security\Muchik.Market.Security.API\obj\Debug\net6.0\ref\Muchik.Market.Security.API.dll
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Security\Muchik.Market.Security.API\bin\Debug\net6.0\appsettings.Development.json
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Security\Muchik.Market.Security.API\bin\Debug\net6.0\appsettings.json
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Security\Muchik.Market.Security.API\bin\Debug\net6.0\Muchik.Market.Security.API.exe
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Security\Muchik.Market.Security.API\bin\Debug\net6.0\Muchik.Market.Security.API.deps.json
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Security\Muchik.Market.Security.API\bin\Debug\net6.0\Muchik.Market.Security.API.runtimeconfig.json
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Security\Muchik.Market.Security.API\bin\Debug\net6.0\Muchik.Market.Security.API.dll
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Security\Muchik.Market.Security.API\bin\Debug\net6.0\Muchik.Market.Security.API.pdb
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Security\Muchik.Market.Security.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Security\Muchik.Market.Security.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Security\Muchik.Market.Security.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Security\Muchik.Market.Security.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Security\Muchik.Market.Security.API\obj\Debug\net6.0\Muchik.Market.Security.API.csproj.AssemblyReference.cache
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Security\Muchik.Market.Security.API\obj\Debug\net6.0\Muchik.Market.Security.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Security\Muchik.Market.Security.API\obj\Debug\net6.0\Muchik.Market.Security.API.AssemblyInfoInputs.cache
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Security\Muchik.Market.Security.API\obj\Debug\net6.0\Muchik.Market.Security.API.AssemblyInfo.cs
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Security\Muchik.Market.Security.API\obj\Debug\net6.0\Muchik.Market.Security.API.csproj.CoreCompileInputs.cache
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Security\Muchik.Market.Security.API\obj\Debug\net6.0\Muchik.Market.Security.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Security\Muchik.Market.Security.API\obj\Debug\net6.0\Muchik.Market.Security.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Security\Muchik.Market.Security.API\obj\Debug\net6.0\staticwebassets\msbuild.Muchik.Market.Security.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Security\Muchik.Market.Security.API\obj\Debug\net6.0\staticwebassets\msbuild.build.Muchik.Market.Security.API.props
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Security\Muchik.Market.Security.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Muchik.Market.Security.API.props
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Security\Muchik.Market.Security.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Muchik.Market.Security.API.props
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Security\Muchik.Market.Security.API\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Security\Muchik.Market.Security.API\obj\Debug\net6.0\staticwebassets.build.json
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Security\Muchik.Market.Security.API\obj\Debug\net6.0\staticwebassets.development.json
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Security\Muchik.Market.Security.API\obj\Debug\net6.0\scopedcss\bundle\Muchik.Market.Security.API.styles.css
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Security\Muchik.Market.Security.API\obj\Debug\net6.0\Muchik.Market.Security.API.csproj.CopyComplete
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Security\Muchik.Market.Security.API\obj\Debug\net6.0\Muchik.Market.Security.API.dll
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Security\Muchik.Market.Security.API\obj\Debug\net6.0\refint\Muchik.Market.Security.API.dll
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Security\Muchik.Market.Security.API\obj\Debug\net6.0\Muchik.Market.Security.API.pdb
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Security\Muchik.Market.Security.API\obj\Debug\net6.0\Muchik.Market.Security.API.genruntimeconfig.cache
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Security\Muchik.Market.Security.API\obj\Debug\net6.0\ref\Muchik.Market.Security.API.dll

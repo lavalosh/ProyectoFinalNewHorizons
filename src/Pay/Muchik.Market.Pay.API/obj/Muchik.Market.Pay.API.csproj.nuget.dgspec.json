@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Proyectos\\trabajo-final-nh\\src\\Pay\\Muchik.Market.Pay.API\\Muchik.Market.Pay.API.csproj": {}
+    "D:\\Martin Avalos\\Capacitaciones\\New Horizons\\Microservicios\\Proyecto Final\\ProyectoFinalNewHorizons\\src\\Pay\\Muchik.Market.Pay.API\\Muchik.Market.Pay.API.csproj": {}
   },
   "projects": {
-    "E:\\Proyectos\\trabajo-final-nh\\src\\Pay\\Muchik.Market.Pay.API\\Muchik.Market.Pay.API.csproj": {
+    "D:\\Martin Avalos\\Capacitaciones\\New Horizons\\Microservicios\\Proyecto Final\\ProyectoFinalNewHorizons\\src\\Pay\\Muchik.Market.Pay.API\\Muchik.Market.Pay.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Proyectos\\trabajo-final-nh\\src\\Pay\\Muchik.Market.Pay.API\\Muchik.Market.Pay.API.csproj",
+        "projectUniqueName": "D:\\Martin Avalos\\Capacitaciones\\New Horizons\\Microservicios\\Proyecto Final\\ProyectoFinalNewHorizons\\src\\Pay\\Muchik.Market.Pay.API\\Muchik.Market.Pay.API.csproj",
         "projectName": "Muchik.Market.Pay.API",
-        "projectPath": "E:\\Proyectos\\trabajo-final-nh\\src\\Pay\\Muchik.Market.Pay.API\\Muchik.Market.Pay.API.csproj",
-        "packagesPath": "C:\\Users\\ritua\\.nuget\\packages\\",
-        "outputPath": "E:\\Proyectos\\trabajo-final-nh\\src\\Pay\\Muchik.Market.Pay.API\\obj\\",
+        "projectPath": "D:\\Martin Avalos\\Capacitaciones\\New Horizons\\Microservicios\\Proyecto Final\\ProyectoFinalNewHorizons\\src\\Pay\\Muchik.Market.Pay.API\\Muchik.Market.Pay.API.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "D:\\Martin Avalos\\Capacitaciones\\New Horizons\\Microservicios\\Proyecto Final\\ProyectoFinalNewHorizons\\src\\Pay\\Muchik.Market.Pay.API\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\ritua\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -27,7 +31,14 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "D:\\Martin Avalos\\Capacitaciones\\New Horizons\\Microservicios\\Proyecto Final\\ProyectoFinalNewHorizons\\src\\Pay\\Muchik.Market.Pay.Application\\Muchik.Market.Pay.Application.csproj": {
+                "projectPath": "D:\\Martin Avalos\\Capacitaciones\\New Horizons\\Microservicios\\Proyecto Final\\ProyectoFinalNewHorizons\\src\\Pay\\Muchik.Market.Pay.Application\\Muchik.Market.Pay.Application.csproj"
+              },
+              "D:\\Martin Avalos\\Capacitaciones\\New Horizons\\Microservicios\\Proyecto Final\\ProyectoFinalNewHorizons\\src\\Pay\\Muchik.Market.Pay.Infrastructure\\Muchik.Market.Pay.Infrastructure.csproj": {
+                "projectPath": "D:\\Martin Avalos\\Capacitaciones\\New Horizons\\Microservicios\\Proyecto Final\\ProyectoFinalNewHorizons\\src\\Pay\\Muchik.Market.Pay.Infrastructure\\Muchik.Market.Pay.Infrastructure.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -40,6 +51,12 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.12, )"
+            },
             "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
               "target": "Package",
               "version": "[1.19.4, )"
@@ -68,7 +85,351 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Martin Avalos\\Capacitaciones\\New Horizons\\Microservicios\\Proyecto Final\\ProyectoFinalNewHorizons\\src\\Pay\\Muchik.Market.Pay.Application\\Muchik.Market.Pay.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Martin Avalos\\Capacitaciones\\New Horizons\\Microservicios\\Proyecto Final\\ProyectoFinalNewHorizons\\src\\Pay\\Muchik.Market.Pay.Application\\Muchik.Market.Pay.Application.csproj",
+        "projectName": "Muchik.Market.Pay.Application",
+        "projectPath": "D:\\Martin Avalos\\Capacitaciones\\New Horizons\\Microservicios\\Proyecto Final\\ProyectoFinalNewHorizons\\src\\Pay\\Muchik.Market.Pay.Application\\Muchik.Market.Pay.Application.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "D:\\Martin Avalos\\Capacitaciones\\New Horizons\\Microservicios\\Proyecto Final\\ProyectoFinalNewHorizons\\src\\Pay\\Muchik.Market.Pay.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Martin Avalos\\Capacitaciones\\New Horizons\\Microservicios\\Proyecto Final\\ProyectoFinalNewHorizons\\src\\Pay\\Muchik.Market.Pay.Domain\\Muchik.Market.Pay.Domain.csproj": {
+                "projectPath": "D:\\Martin Avalos\\Capacitaciones\\New Horizons\\Microservicios\\Proyecto Final\\ProyectoFinalNewHorizons\\src\\Pay\\Muchik.Market.Pay.Domain\\Muchik.Market.Pay.Domain.csproj"
+              },
+              "D:\\Martin Avalos\\Capacitaciones\\New Horizons\\Microservicios\\Proyecto Final\\ProyectoFinalNewHorizons\\src\\Transaction\\Muchik.Market.Transaction.Application\\Muchik.Market.Transaction.Application.csproj": {
+                "projectPath": "D:\\Martin Avalos\\Capacitaciones\\New Horizons\\Microservicios\\Proyecto Final\\ProyectoFinalNewHorizons\\src\\Transaction\\Muchik.Market.Transaction.Application\\Muchik.Market.Transaction.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Martin Avalos\\Capacitaciones\\New Horizons\\Microservicios\\Proyecto Final\\ProyectoFinalNewHorizons\\src\\Pay\\Muchik.Market.Pay.Domain\\Muchik.Market.Pay.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Martin Avalos\\Capacitaciones\\New Horizons\\Microservicios\\Proyecto Final\\ProyectoFinalNewHorizons\\src\\Pay\\Muchik.Market.Pay.Domain\\Muchik.Market.Pay.Domain.csproj",
+        "projectName": "Muchik.Market.Pay.Domain",
+        "projectPath": "D:\\Martin Avalos\\Capacitaciones\\New Horizons\\Microservicios\\Proyecto Final\\ProyectoFinalNewHorizons\\src\\Pay\\Muchik.Market.Pay.Domain\\Muchik.Market.Pay.Domain.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "D:\\Martin Avalos\\Capacitaciones\\New Horizons\\Microservicios\\Proyecto Final\\ProyectoFinalNewHorizons\\src\\Pay\\Muchik.Market.Pay.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Martin Avalos\\Capacitaciones\\New Horizons\\Microservicios\\Proyecto Final\\ProyectoFinalNewHorizons\\src\\Pay\\Muchik.Market.Pay.Infrastructure\\Muchik.Market.Pay.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Martin Avalos\\Capacitaciones\\New Horizons\\Microservicios\\Proyecto Final\\ProyectoFinalNewHorizons\\src\\Pay\\Muchik.Market.Pay.Infrastructure\\Muchik.Market.Pay.Infrastructure.csproj",
+        "projectName": "Muchik.Market.Pay.Infrastructure",
+        "projectPath": "D:\\Martin Avalos\\Capacitaciones\\New Horizons\\Microservicios\\Proyecto Final\\ProyectoFinalNewHorizons\\src\\Pay\\Muchik.Market.Pay.Infrastructure\\Muchik.Market.Pay.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "D:\\Martin Avalos\\Capacitaciones\\New Horizons\\Microservicios\\Proyecto Final\\ProyectoFinalNewHorizons\\src\\Pay\\Muchik.Market.Pay.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Martin Avalos\\Capacitaciones\\New Horizons\\Microservicios\\Proyecto Final\\ProyectoFinalNewHorizons\\src\\Pay\\Muchik.Market.Pay.Domain\\Muchik.Market.Pay.Domain.csproj": {
+                "projectPath": "D:\\Martin Avalos\\Capacitaciones\\New Horizons\\Microservicios\\Proyecto Final\\ProyectoFinalNewHorizons\\src\\Pay\\Muchik.Market.Pay.Domain\\Muchik.Market.Pay.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.12, )"
+            },
+            "MySql.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Martin Avalos\\Capacitaciones\\New Horizons\\Microservicios\\Proyecto Final\\ProyectoFinalNewHorizons\\src\\Transaction\\Muchik.Market.Transaction.Application\\Muchik.Market.Transaction.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Martin Avalos\\Capacitaciones\\New Horizons\\Microservicios\\Proyecto Final\\ProyectoFinalNewHorizons\\src\\Transaction\\Muchik.Market.Transaction.Application\\Muchik.Market.Transaction.Application.csproj",
+        "projectName": "Muchik.Market.Transaction.Application",
+        "projectPath": "D:\\Martin Avalos\\Capacitaciones\\New Horizons\\Microservicios\\Proyecto Final\\ProyectoFinalNewHorizons\\src\\Transaction\\Muchik.Market.Transaction.Application\\Muchik.Market.Transaction.Application.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "D:\\Martin Avalos\\Capacitaciones\\New Horizons\\Microservicios\\Proyecto Final\\ProyectoFinalNewHorizons\\src\\Transaction\\Muchik.Market.Transaction.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Martin Avalos\\Capacitaciones\\New Horizons\\Microservicios\\Proyecto Final\\ProyectoFinalNewHorizons\\src\\Transaction\\Muchik.Market.Transaction.Domain\\Muchik.Market.Transaction.Domain.csproj": {
+                "projectPath": "D:\\Martin Avalos\\Capacitaciones\\New Horizons\\Microservicios\\Proyecto Final\\ProyectoFinalNewHorizons\\src\\Transaction\\Muchik.Market.Transaction.Domain\\Muchik.Market.Transaction.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Martin Avalos\\Capacitaciones\\New Horizons\\Microservicios\\Proyecto Final\\ProyectoFinalNewHorizons\\src\\Transaction\\Muchik.Market.Transaction.Domain\\Muchik.Market.Transaction.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Martin Avalos\\Capacitaciones\\New Horizons\\Microservicios\\Proyecto Final\\ProyectoFinalNewHorizons\\src\\Transaction\\Muchik.Market.Transaction.Domain\\Muchik.Market.Transaction.Domain.csproj",
+        "projectName": "Muchik.Market.Transaction.Domain",
+        "projectPath": "D:\\Martin Avalos\\Capacitaciones\\New Horizons\\Microservicios\\Proyecto Final\\ProyectoFinalNewHorizons\\src\\Transaction\\Muchik.Market.Transaction.Domain\\Muchik.Market.Transaction.Domain.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "D:\\Martin Avalos\\Capacitaciones\\New Horizons\\Microservicios\\Proyecto Final\\ProyectoFinalNewHorizons\\src\\Transaction\\Muchik.Market.Transaction.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
