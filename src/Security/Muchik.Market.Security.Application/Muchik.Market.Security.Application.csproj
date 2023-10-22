@@ -6,4 +6,12 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+	<ItemGroup>
+		<PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.1" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\Muchik.Market.Security.Domain\Muchik.Market.Security.Domain.csproj" />
+		<ProjectReference Include="..\Muchik.Market.Security.Infrastructure.CrossCutting\Muchik.Market.Security.Infrastructure.CrossCutting.csproj" />
+	</ItemGroup>
 </Project>

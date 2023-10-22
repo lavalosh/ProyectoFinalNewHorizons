@@ -21,3 +21,14 @@ D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\Proye
 D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Invoice\Muchik.Market.Invoice.Infrastructure\obj\Debug\net6.0\refint\Muchik.Market.Invoice.Infrastructure.dll
 D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Invoice\Muchik.Market.Invoice.Infrastructure\obj\Debug\net6.0\Muchik.Market.Invoice.Infrastructure.pdb
 D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Invoice\Muchik.Market.Invoice.Infrastructure\obj\Debug\net6.0\ref\Muchik.Market.Invoice.Infrastructure.dll
+E:\leonardo_bk\ProyectoFinalNewHorizons\src\Invoice\Muchik.Market.Invoice.Infrastructure\bin\Debug\net6.0\Muchik.Market.Invoice.Infrastructure.deps.json
+E:\leonardo_bk\ProyectoFinalNewHorizons\src\Invoice\Muchik.Market.Invoice.Infrastructure\bin\Debug\net6.0\Muchik.Market.Invoice.Infrastructure.dll
+E:\leonardo_bk\ProyectoFinalNewHorizons\src\Invoice\Muchik.Market.Invoice.Infrastructure\bin\Debug\net6.0\Muchik.Market.Invoice.Infrastructure.pdb
+E:\leonardo_bk\ProyectoFinalNewHorizons\src\Invoice\Muchik.Market.Invoice.Infrastructure\obj\Debug\net6.0\Muchik.Market.Invoice.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\leonardo_bk\ProyectoFinalNewHorizons\src\Invoice\Muchik.Market.Invoice.Infrastructure\obj\Debug\net6.0\Muchik.Market.Invoice.Infrastructure.AssemblyInfoInputs.cache
+E:\leonardo_bk\ProyectoFinalNewHorizons\src\Invoice\Muchik.Market.Invoice.Infrastructure\obj\Debug\net6.0\Muchik.Market.Invoice.Infrastructure.AssemblyInfo.cs
+E:\leonardo_bk\ProyectoFinalNewHorizons\src\Invoice\Muchik.Market.Invoice.Infrastructure\obj\Debug\net6.0\Muchik.Market.Invoice.Infrastructure.csproj.CoreCompileInputs.cache
+E:\leonardo_bk\ProyectoFinalNewHorizons\src\Invoice\Muchik.Market.Invoice.Infrastructure\obj\Debug\net6.0\Muchik.Market.Invoice.Infrastructure.dll
+E:\leonardo_bk\ProyectoFinalNewHorizons\src\Invoice\Muchik.Market.Invoice.Infrastructure\obj\Debug\net6.0\refint\Muchik.Market.Invoice.Infrastructure.dll
+E:\leonardo_bk\ProyectoFinalNewHorizons\src\Invoice\Muchik.Market.Invoice.Infrastructure\obj\Debug\net6.0\Muchik.Market.Invoice.Infrastructure.pdb
+E:\leonardo_bk\ProyectoFinalNewHorizons\src\Invoice\Muchik.Market.Invoice.Infrastructure\obj\Debug\net6.0\ref\Muchik.Market.Invoice.Infrastructure.dll

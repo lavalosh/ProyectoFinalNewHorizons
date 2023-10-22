@@ -26,3 +26,20 @@ D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\Proye
 D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Pay\Muchik.Market.Pay.Infrastructure\bin\Debug\net6.0\Muchik.Market.Pay.Domain.pdb
 D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Pay\Muchik.Market.Pay.Infrastructure\obj\Debug\net6.0\Muchik.Market.Pay.Infrastructure.csproj.CopyComplete
 D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Pay\Muchik.Market.Pay.Infrastructure\obj\Debug\net6.0\Muchik.Market.Pay.Infrastructure.genruntimeconfig.cache
+E:\leonardo_bk\ProyectoFinalNewHorizons\src\Pay\Muchik.Market.Pay.Infrastructure\bin\Debug\net6.0\Muchik.Market.Pay.Infrastructure.deps.json
+E:\leonardo_bk\ProyectoFinalNewHorizons\src\Pay\Muchik.Market.Pay.Infrastructure\bin\Debug\net6.0\Muchik.Market.Pay.Infrastructure.runtimeconfig.json
+E:\leonardo_bk\ProyectoFinalNewHorizons\src\Pay\Muchik.Market.Pay.Infrastructure\bin\Debug\net6.0\Muchik.Market.Pay.Infrastructure.dll
+E:\leonardo_bk\ProyectoFinalNewHorizons\src\Pay\Muchik.Market.Pay.Infrastructure\bin\Debug\net6.0\Muchik.Market.Pay.Infrastructure.pdb
+E:\leonardo_bk\ProyectoFinalNewHorizons\src\Pay\Muchik.Market.Pay.Infrastructure\bin\Debug\net6.0\Muchik.Market.Pay.Domain.dll
+E:\leonardo_bk\ProyectoFinalNewHorizons\src\Pay\Muchik.Market.Pay.Infrastructure\bin\Debug\net6.0\Muchik.Market.Pay.Domain.pdb
+E:\leonardo_bk\ProyectoFinalNewHorizons\src\Pay\Muchik.Market.Pay.Infrastructure\obj\Debug\net6.0\Muchik.Market.Pay.Infrastructure.csproj.AssemblyReference.cache
+E:\leonardo_bk\ProyectoFinalNewHorizons\src\Pay\Muchik.Market.Pay.Infrastructure\obj\Debug\net6.0\Muchik.Market.Pay.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\leonardo_bk\ProyectoFinalNewHorizons\src\Pay\Muchik.Market.Pay.Infrastructure\obj\Debug\net6.0\Muchik.Market.Pay.Infrastructure.AssemblyInfoInputs.cache
+E:\leonardo_bk\ProyectoFinalNewHorizons\src\Pay\Muchik.Market.Pay.Infrastructure\obj\Debug\net6.0\Muchik.Market.Pay.Infrastructure.AssemblyInfo.cs
+E:\leonardo_bk\ProyectoFinalNewHorizons\src\Pay\Muchik.Market.Pay.Infrastructure\obj\Debug\net6.0\Muchik.Market.Pay.Infrastructure.csproj.CoreCompileInputs.cache
+E:\leonardo_bk\ProyectoFinalNewHorizons\src\Pay\Muchik.Market.Pay.Infrastructure\obj\Debug\net6.0\Muchik.Market.Pay.Infrastructure.csproj.CopyComplete
+E:\leonardo_bk\ProyectoFinalNewHorizons\src\Pay\Muchik.Market.Pay.Infrastructure\obj\Debug\net6.0\Muchik.Market.Pay.Infrastructure.dll
+E:\leonardo_bk\ProyectoFinalNewHorizons\src\Pay\Muchik.Market.Pay.Infrastructure\obj\Debug\net6.0\refint\Muchik.Market.Pay.Infrastructure.dll
+E:\leonardo_bk\ProyectoFinalNewHorizons\src\Pay\Muchik.Market.Pay.Infrastructure\obj\Debug\net6.0\Muchik.Market.Pay.Infrastructure.pdb
+E:\leonardo_bk\ProyectoFinalNewHorizons\src\Pay\Muchik.Market.Pay.Infrastructure\obj\Debug\net6.0\Muchik.Market.Pay.Infrastructure.genruntimeconfig.cache
+E:\leonardo_bk\ProyectoFinalNewHorizons\src\Pay\Muchik.Market.Pay.Infrastructure\obj\Debug\net6.0\ref\Muchik.Market.Pay.Infrastructure.dll

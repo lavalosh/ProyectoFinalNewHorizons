@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Martin Avalos\\Capacitaciones\\New Horizons\\Microservicios\\Proyecto Final\\ProyectoFinalNewHorizons\\src\\Transaction\\Muchik.Market.Transaction.Infrastructure\\Muchik.Market.Transaction.Infrastructure.csproj": {}
+    "E:\\leonardo_bk\\ProyectoFinalNewHorizons\\src\\Transaction\\Muchik.Market.Transaction.Infrastructure\\Muchik.Market.Transaction.Infrastructure.csproj": {}
   },
   "projects": {
-    "D:\\Martin Avalos\\Capacitaciones\\New Horizons\\Microservicios\\Proyecto Final\\ProyectoFinalNewHorizons\\src\\Pay\\Muchik.Market.Pay.Domain\\Muchik.Market.Pay.Domain.csproj": {
+    "E:\\leonardo_bk\\ProyectoFinalNewHorizons\\src\\Pay\\Muchik.Market.Pay.Domain\\Muchik.Market.Pay.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Martin Avalos\\Capacitaciones\\New Horizons\\Microservicios\\Proyecto Final\\ProyectoFinalNewHorizons\\src\\Pay\\Muchik.Market.Pay.Domain\\Muchik.Market.Pay.Domain.csproj",
+        "projectUniqueName": "E:\\leonardo_bk\\ProyectoFinalNewHorizons\\src\\Pay\\Muchik.Market.Pay.Domain\\Muchik.Market.Pay.Domain.csproj",
         "projectName": "Muchik.Market.Pay.Domain",
-        "projectPath": "D:\\Martin Avalos\\Capacitaciones\\New Horizons\\Microservicios\\Proyecto Final\\ProyectoFinalNewHorizons\\src\\Pay\\Muchik.Market.Pay.Domain\\Muchik.Market.Pay.Domain.csproj",
-        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "D:\\Martin Avalos\\Capacitaciones\\New Horizons\\Microservicios\\Proyecto Final\\ProyectoFinalNewHorizons\\src\\Pay\\Muchik.Market.Pay.Domain\\obj\\",
+        "projectPath": "E:\\leonardo_bk\\ProyectoFinalNewHorizons\\src\\Pay\\Muchik.Market.Pay.Domain\\Muchik.Market.Pay.Domain.csproj",
+        "packagesPath": "C:\\Users\\ritua\\.nuget\\packages\\",
+        "outputPath": "E:\\leonardo_bk\\ProyectoFinalNewHorizons\\src\\Pay\\Muchik.Market.Pay.Domain\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\ritua\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -59,25 +55,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Martin Avalos\\Capacitaciones\\New Horizons\\Microservicios\\Proyecto Final\\ProyectoFinalNewHorizons\\src\\Pay\\Muchik.Market.Pay.Infrastructure\\Muchik.Market.Pay.Infrastructure.csproj": {
+    "E:\\leonardo_bk\\ProyectoFinalNewHorizons\\src\\Pay\\Muchik.Market.Pay.Infrastructure\\Muchik.Market.Pay.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Martin Avalos\\Capacitaciones\\New Horizons\\Microservicios\\Proyecto Final\\ProyectoFinalNewHorizons\\src\\Pay\\Muchik.Market.Pay.Infrastructure\\Muchik.Market.Pay.Infrastructure.csproj",
+        "projectUniqueName": "E:\\leonardo_bk\\ProyectoFinalNewHorizons\\src\\Pay\\Muchik.Market.Pay.Infrastructure\\Muchik.Market.Pay.Infrastructure.csproj",
         "projectName": "Muchik.Market.Pay.Infrastructure",
-        "projectPath": "D:\\Martin Avalos\\Capacitaciones\\New Horizons\\Microservicios\\Proyecto Final\\ProyectoFinalNewHorizons\\src\\Pay\\Muchik.Market.Pay.Infrastructure\\Muchik.Market.Pay.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "D:\\Martin Avalos\\Capacitaciones\\New Horizons\\Microservicios\\Proyecto Final\\ProyectoFinalNewHorizons\\src\\Pay\\Muchik.Market.Pay.Infrastructure\\obj\\",
+        "projectPath": "E:\\leonardo_bk\\ProyectoFinalNewHorizons\\src\\Pay\\Muchik.Market.Pay.Infrastructure\\Muchik.Market.Pay.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\ritua\\.nuget\\packages\\",
+        "outputPath": "E:\\leonardo_bk\\ProyectoFinalNewHorizons\\src\\Pay\\Muchik.Market.Pay.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\ritua\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -91,8 +83,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Martin Avalos\\Capacitaciones\\New Horizons\\Microservicios\\Proyecto Final\\ProyectoFinalNewHorizons\\src\\Pay\\Muchik.Market.Pay.Domain\\Muchik.Market.Pay.Domain.csproj": {
-                "projectPath": "D:\\Martin Avalos\\Capacitaciones\\New Horizons\\Microservicios\\Proyecto Final\\ProyectoFinalNewHorizons\\src\\Pay\\Muchik.Market.Pay.Domain\\Muchik.Market.Pay.Domain.csproj"
+              "E:\\leonardo_bk\\ProyectoFinalNewHorizons\\src\\Pay\\Muchik.Market.Pay.Domain\\Muchik.Market.Pay.Domain.csproj": {
+                "projectPath": "E:\\leonardo_bk\\ProyectoFinalNewHorizons\\src\\Pay\\Muchik.Market.Pay.Domain\\Muchik.Market.Pay.Domain.csproj"
               }
             }
           }
@@ -144,25 +136,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Martin Avalos\\Capacitaciones\\New Horizons\\Microservicios\\Proyecto Final\\ProyectoFinalNewHorizons\\src\\Transaction\\Muchik.Market.Transaction.Domain\\Muchik.Market.Transaction.Domain.csproj": {
+    "E:\\leonardo_bk\\ProyectoFinalNewHorizons\\src\\Transaction\\Muchik.Market.Transaction.Domain\\Muchik.Market.Transaction.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Martin Avalos\\Capacitaciones\\New Horizons\\Microservicios\\Proyecto Final\\ProyectoFinalNewHorizons\\src\\Transaction\\Muchik.Market.Transaction.Domain\\Muchik.Market.Transaction.Domain.csproj",
+        "projectUniqueName": "E:\\leonardo_bk\\ProyectoFinalNewHorizons\\src\\Transaction\\Muchik.Market.Transaction.Domain\\Muchik.Market.Transaction.Domain.csproj",
         "projectName": "Muchik.Market.Transaction.Domain",
-        "projectPath": "D:\\Martin Avalos\\Capacitaciones\\New Horizons\\Microservicios\\Proyecto Final\\ProyectoFinalNewHorizons\\src\\Transaction\\Muchik.Market.Transaction.Domain\\Muchik.Market.Transaction.Domain.csproj",
-        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "D:\\Martin Avalos\\Capacitaciones\\New Horizons\\Microservicios\\Proyecto Final\\ProyectoFinalNewHorizons\\src\\Transaction\\Muchik.Market.Transaction.Domain\\obj\\",
+        "projectPath": "E:\\leonardo_bk\\ProyectoFinalNewHorizons\\src\\Transaction\\Muchik.Market.Transaction.Domain\\Muchik.Market.Transaction.Domain.csproj",
+        "packagesPath": "C:\\Users\\ritua\\.nuget\\packages\\",
+        "outputPath": "E:\\leonardo_bk\\ProyectoFinalNewHorizons\\src\\Transaction\\Muchik.Market.Transaction.Domain\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\ritua\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -203,25 +191,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Martin Avalos\\Capacitaciones\\New Horizons\\Microservicios\\Proyecto Final\\ProyectoFinalNewHorizons\\src\\Transaction\\Muchik.Market.Transaction.Infrastructure\\Muchik.Market.Transaction.Infrastructure.csproj": {
+    "E:\\leonardo_bk\\ProyectoFinalNewHorizons\\src\\Transaction\\Muchik.Market.Transaction.Infrastructure\\Muchik.Market.Transaction.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Martin Avalos\\Capacitaciones\\New Horizons\\Microservicios\\Proyecto Final\\ProyectoFinalNewHorizons\\src\\Transaction\\Muchik.Market.Transaction.Infrastructure\\Muchik.Market.Transaction.Infrastructure.csproj",
+        "projectUniqueName": "E:\\leonardo_bk\\ProyectoFinalNewHorizons\\src\\Transaction\\Muchik.Market.Transaction.Infrastructure\\Muchik.Market.Transaction.Infrastructure.csproj",
         "projectName": "Muchik.Market.Transaction.Infrastructure",
-        "projectPath": "D:\\Martin Avalos\\Capacitaciones\\New Horizons\\Microservicios\\Proyecto Final\\ProyectoFinalNewHorizons\\src\\Transaction\\Muchik.Market.Transaction.Infrastructure\\Muchik.Market.Transaction.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "D:\\Martin Avalos\\Capacitaciones\\New Horizons\\Microservicios\\Proyecto Final\\ProyectoFinalNewHorizons\\src\\Transaction\\Muchik.Market.Transaction.Infrastructure\\obj\\",
+        "projectPath": "E:\\leonardo_bk\\ProyectoFinalNewHorizons\\src\\Transaction\\Muchik.Market.Transaction.Infrastructure\\Muchik.Market.Transaction.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\ritua\\.nuget\\packages\\",
+        "outputPath": "E:\\leonardo_bk\\ProyectoFinalNewHorizons\\src\\Transaction\\Muchik.Market.Transaction.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\ritua\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -235,11 +219,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Martin Avalos\\Capacitaciones\\New Horizons\\Microservicios\\Proyecto Final\\ProyectoFinalNewHorizons\\src\\Pay\\Muchik.Market.Pay.Infrastructure\\Muchik.Market.Pay.Infrastructure.csproj": {
-                "projectPath": "D:\\Martin Avalos\\Capacitaciones\\New Horizons\\Microservicios\\Proyecto Final\\ProyectoFinalNewHorizons\\src\\Pay\\Muchik.Market.Pay.Infrastructure\\Muchik.Market.Pay.Infrastructure.csproj"
+              "E:\\leonardo_bk\\ProyectoFinalNewHorizons\\src\\Pay\\Muchik.Market.Pay.Infrastructure\\Muchik.Market.Pay.Infrastructure.csproj": {
+                "projectPath": "E:\\leonardo_bk\\ProyectoFinalNewHorizons\\src\\Pay\\Muchik.Market.Pay.Infrastructure\\Muchik.Market.Pay.Infrastructure.csproj"
               },
-              "D:\\Martin Avalos\\Capacitaciones\\New Horizons\\Microservicios\\Proyecto Final\\ProyectoFinalNewHorizons\\src\\Transaction\\Muchik.Market.Transaction.Domain\\Muchik.Market.Transaction.Domain.csproj": {
-                "projectPath": "D:\\Martin Avalos\\Capacitaciones\\New Horizons\\Microservicios\\Proyecto Final\\ProyectoFinalNewHorizons\\src\\Transaction\\Muchik.Market.Transaction.Domain\\Muchik.Market.Transaction.Domain.csproj"
+              "E:\\leonardo_bk\\ProyectoFinalNewHorizons\\src\\Transaction\\Muchik.Market.Transaction.Domain\\Muchik.Market.Transaction.Domain.csproj": {
+                "projectPath": "E:\\leonardo_bk\\ProyectoFinalNewHorizons\\src\\Transaction\\Muchik.Market.Transaction.Domain\\Muchik.Market.Transaction.Domain.csproj"
               }
             }
           }
@@ -269,7 +253,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

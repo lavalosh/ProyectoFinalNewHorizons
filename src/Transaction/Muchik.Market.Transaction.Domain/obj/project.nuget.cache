@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "shOb0DVXhK9CK84KjFADdgWmaY53VywER7ppj8jQGlLI3I5H+shHrE67fjqLePDThsagLMWg81aa/FYKvOk3Qg==",
+  "dgSpecHash": "i7aD/mvevoOwan78zygjM0MIhv/OtumFu0JbgCBQPkuZT/btDbgQv8z8wz+5dwg1US3U7JjSIA8sDiQKclVvgQ==",
   "success": true,
-  "projectFilePath": "D:\\Martin Avalos\\Capacitaciones\\New Horizons\\Microservicios\\Proyecto Final\\ProyectoFinalNewHorizons\\src\\Transaction\\Muchik.Market.Transaction.Domain\\Muchik.Market.Transaction.Domain.csproj",
+  "projectFilePath": "E:\\leonardo_bk\\ProyectoFinalNewHorizons\\src\\Transaction\\Muchik.Market.Transaction.Domain\\Muchik.Market.Transaction.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

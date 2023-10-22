@@ -14,5 +14,10 @@
     <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.19.4" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
   </ItemGroup>
+	<ItemGroup>
+		<ProjectReference Include="..\Muchik.Market.Security.Application\Muchik.Market.Security.Application.csproj" />
+		<ProjectReference Include="..\Muchik.Market.Security.Infrastructure\Muchik.Market.Security.Infrastructure.csproj" />
+	</ItemGroup>
+
 
 </Project>

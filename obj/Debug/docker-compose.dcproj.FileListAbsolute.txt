@@ -1,110 +1,93 @@
-E:\Proyectos\trabajo-final-nh\bin\Debug\Muchik.Market.Gateway.API.deps.json
-E:\Proyectos\trabajo-final-nh\bin\Debug\Muchik.Market.Gateway.API.runtimeconfig.json
-E:\Proyectos\trabajo-final-nh\bin\Debug\appsettings.Development.json
-E:\Proyectos\trabajo-final-nh\bin\Debug\appsettings.json
-E:\Proyectos\trabajo-final-nh\bin\Debug\Muchik.Market.Gateway.API.exe
-E:\Proyectos\trabajo-final-nh\bin\Debug\Muchik.Market.Gateway.API.dll
-E:\Proyectos\trabajo-final-nh\bin\Debug\Swashbuckle.AspNetCore.SwaggerGen.dll
-E:\Proyectos\trabajo-final-nh\bin\Debug\Swashbuckle.AspNetCore.Swagger.dll
-E:\Proyectos\trabajo-final-nh\bin\Debug\Swashbuckle.AspNetCore.SwaggerUI.dll
-E:\Proyectos\trabajo-final-nh\bin\Debug\Microsoft.OpenApi.dll
-E:\Proyectos\trabajo-final-nh\bin\Debug\Muchik.Market.Gateway.API.pdb
-E:\Proyectos\trabajo-final-nh\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
-E:\Proyectos\trabajo-final-nh\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
-E:\Proyectos\trabajo-final-nh\obj\Debug\docker-compose.dcproj.CopyComplete
-E:\Proyectos\trabajo-final-nh\bin\Debug\Muchik.Market.Invoice.API.deps.json
-E:\Proyectos\trabajo-final-nh\bin\Debug\Muchik.Market.Invoice.API.runtimeconfig.json
-E:\Proyectos\trabajo-final-nh\bin\Debug\Muchik.Market.Invoice.API.exe
-E:\Proyectos\trabajo-final-nh\bin\Debug\Muchik.Market.Pay.API.deps.json
-E:\Proyectos\trabajo-final-nh\bin\Debug\Muchik.Market.Pay.API.runtimeconfig.json
-E:\Proyectos\trabajo-final-nh\bin\Debug\Muchik.Market.Pay.API.exe
-E:\Proyectos\trabajo-final-nh\bin\Debug\Muchik.Market.Security.API.deps.json
-E:\Proyectos\trabajo-final-nh\bin\Debug\Muchik.Market.Security.API.runtimeconfig.json
-E:\Proyectos\trabajo-final-nh\bin\Debug\Muchik.Market.Security.API.exe
-E:\Proyectos\trabajo-final-nh\bin\Debug\Muchik.Market.Transaction.API.deps.json
-E:\Proyectos\trabajo-final-nh\bin\Debug\Muchik.Market.Transaction.API.runtimeconfig.json
-E:\Proyectos\trabajo-final-nh\bin\Debug\Muchik.Market.Transaction.API.exe
-E:\Proyectos\trabajo-final-nh\bin\Debug\Muchik.Market.Invoice.API.dll
-E:\Proyectos\trabajo-final-nh\bin\Debug\Muchik.Market.Pay.API.dll
-E:\Proyectos\trabajo-final-nh\bin\Debug\Muchik.Market.Security.API.dll
-E:\Proyectos\trabajo-final-nh\bin\Debug\Muchik.Market.Transaction.API.dll
-E:\Proyectos\trabajo-final-nh\bin\Debug\Muchik.Market.Invoice.API.pdb
-E:\Proyectos\trabajo-final-nh\bin\Debug\Muchik.Market.Pay.API.pdb
-E:\Proyectos\trabajo-final-nh\bin\Debug\Muchik.Market.Security.API.pdb
-E:\Proyectos\trabajo-final-nh\bin\Debug\Muchik.Market.Transaction.API.pdb
-D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\bin\Debug\Muchik.Market.Gateway.API.deps.json
-D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\bin\Debug\Muchik.Market.Gateway.API.runtimeconfig.json
-D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\bin\Debug\appsettings.Development.json
-D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\bin\Debug\appsettings.json
-D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\bin\Debug\Muchik.Market.Gateway.API.exe
-D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\bin\Debug\Muchik.Market.Invoice.API.deps.json
-D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\bin\Debug\Muchik.Market.Invoice.API.runtimeconfig.json
-D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\bin\Debug\Muchik.Market.Invoice.API.exe
-D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\bin\Debug\Muchik.Market.Pay.API.deps.json
-D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\bin\Debug\Muchik.Market.Pay.API.runtimeconfig.json
-D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\bin\Debug\Muchik.Market.Pay.API.exe
-D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\bin\Debug\Muchik.Market.Security.API.deps.json
-D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\bin\Debug\Muchik.Market.Security.API.runtimeconfig.json
-D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\bin\Debug\Muchik.Market.Security.API.exe
-D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\bin\Debug\Muchik.Market.Transaction.API.deps.json
-D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\bin\Debug\Muchik.Market.Transaction.API.runtimeconfig.json
-D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\bin\Debug\Muchik.Market.Transaction.API.exe
-D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\bin\Debug\Muchik.Market.Gateway.API.dll
-D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\bin\Debug\Muchik.Market.Invoice.API.dll
-D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\bin\Debug\Muchik.Market.Pay.API.dll
-D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\bin\Debug\Muchik.Market.Security.API.dll
-D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\bin\Debug\Muchik.Market.Transaction.API.dll
-D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\bin\Debug\Swashbuckle.AspNetCore.SwaggerGen.dll
-D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\bin\Debug\Swashbuckle.AspNetCore.Swagger.dll
-D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\bin\Debug\Swashbuckle.AspNetCore.SwaggerUI.dll
-D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\bin\Debug\Microsoft.OpenApi.dll
-D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\bin\Debug\Muchik.Market.Gateway.API.pdb
-D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\bin\Debug\Muchik.Market.Invoice.API.pdb
-D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\bin\Debug\Muchik.Market.Pay.API.pdb
-D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\bin\Debug\Muchik.Market.Security.API.pdb
-D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\bin\Debug\Muchik.Market.Transaction.API.pdb
-D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
-D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
-D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\obj\Debug\docker-compose.dcproj.CopyComplete
-D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\bin\Debug\Muchik.Market.Pay.Application.dll
-D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\bin\Debug\AutoMapper.dll
-D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\bin\Debug\Muchik.Market.Pay.Domain.dll
-D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\bin\Debug\Muchik.Market.Pay.Application.pdb
-D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\bin\Debug\Muchik.Market.Pay.Domain.pdb
-D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
-D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\bin\Debug\Microsoft.EntityFrameworkCore.dll
-D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\bin\Debug\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
-D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\bin\Debug\Muchik.Market.Pay.Infrastructure.dll
-D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
-D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\bin\Debug\MySql.EntityFrameworkCore.dll
-D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\bin\Debug\Muchik.Market.Transaction.Application.dll
-D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\bin\Debug\Muchik.Market.Transaction.Infrastructure.dll
-D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\bin\Debug\Muchik.Market.Transaction.Domain.dll
-D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\bin\Debug\Microsoft.Extensions.Options.dll
-D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\bin\Debug\System.Text.Json.dll
-D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\bin\Debug\Microsoft.Extensions.Primitives.dll
-D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
-D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
-D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\bin\Debug\System.Diagnostics.DiagnosticSource.dll
-D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
-D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\bin\Debug\Microsoft.Extensions.Logging.dll
-D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
-D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
-D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\bin\Debug\MySql.Data.dll
-D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\bin\Debug\System.Text.Encodings.Web.dll
-D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\bin\Debug\Google.Protobuf.dll
-D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\bin\Debug\ZstdSharp.dll
-D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\bin\Debug\K4os.Compression.LZ4.Streams.dll
-D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\bin\Debug\BouncyCastle.Crypto.dll
-D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\bin\Debug\System.Security.Permissions.dll
-D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\bin\Debug\System.Configuration.ConfigurationManager.dll
-D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\bin\Debug\K4os.Compression.LZ4.dll
-D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\bin\Debug\System.IO.Pipelines.dll
-D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\bin\Debug\K4os.Hash.xxHash.dll
-D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\bin\Debug\System.Windows.Extensions.dll
-D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\bin\Debug\System.Security.Cryptography.ProtectedData.dll
-D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\bin\Debug\Muchik.Market.Pay.Infrastructure.pdb
-D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\bin\Debug\Muchik.Market.Transaction.Application.pdb
-D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\bin\Debug\Muchik.Market.Transaction.Infrastructure.pdb
-D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\bin\Debug\Muchik.Market.Transaction.Domain.pdb
+E:\leonardo_bk\ProyectoFinalNewHorizons\bin\Debug\Muchik.Market.Gateway.API.deps.json
+E:\leonardo_bk\ProyectoFinalNewHorizons\bin\Debug\Muchik.Market.Gateway.API.runtimeconfig.json
+E:\leonardo_bk\ProyectoFinalNewHorizons\bin\Debug\appsettings.Development.json
+E:\leonardo_bk\ProyectoFinalNewHorizons\bin\Debug\appsettings.json
+E:\leonardo_bk\ProyectoFinalNewHorizons\bin\Debug\Muchik.Market.Gateway.API.exe
+E:\leonardo_bk\ProyectoFinalNewHorizons\bin\Debug\Muchik.Market.Invoice.API.deps.json
+E:\leonardo_bk\ProyectoFinalNewHorizons\bin\Debug\Muchik.Market.Invoice.API.runtimeconfig.json
+E:\leonardo_bk\ProyectoFinalNewHorizons\bin\Debug\Muchik.Market.Invoice.API.exe
+E:\leonardo_bk\ProyectoFinalNewHorizons\bin\Debug\Muchik.Market.Pay.API.deps.json
+E:\leonardo_bk\ProyectoFinalNewHorizons\bin\Debug\Muchik.Market.Pay.API.runtimeconfig.json
+E:\leonardo_bk\ProyectoFinalNewHorizons\bin\Debug\Muchik.Market.Pay.API.exe
+E:\leonardo_bk\ProyectoFinalNewHorizons\bin\Debug\Muchik.Market.Security.API.deps.json
+E:\leonardo_bk\ProyectoFinalNewHorizons\bin\Debug\Muchik.Market.Security.API.runtimeconfig.json
+E:\leonardo_bk\ProyectoFinalNewHorizons\bin\Debug\Muchik.Market.Security.API.exe
+E:\leonardo_bk\ProyectoFinalNewHorizons\bin\Debug\Muchik.Market.Transaction.API.deps.json
+E:\leonardo_bk\ProyectoFinalNewHorizons\bin\Debug\Muchik.Market.Transaction.API.runtimeconfig.json
+E:\leonardo_bk\ProyectoFinalNewHorizons\bin\Debug\Muchik.Market.Transaction.API.exe
+E:\leonardo_bk\ProyectoFinalNewHorizons\bin\Debug\Muchik.Market.Gateway.API.dll
+E:\leonardo_bk\ProyectoFinalNewHorizons\bin\Debug\Muchik.Market.Invoice.API.dll
+E:\leonardo_bk\ProyectoFinalNewHorizons\bin\Debug\Muchik.Market.Pay.API.dll
+E:\leonardo_bk\ProyectoFinalNewHorizons\bin\Debug\Muchik.Market.Security.API.dll
+E:\leonardo_bk\ProyectoFinalNewHorizons\bin\Debug\Muchik.Market.Transaction.API.dll
+E:\leonardo_bk\ProyectoFinalNewHorizons\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\leonardo_bk\ProyectoFinalNewHorizons\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\leonardo_bk\ProyectoFinalNewHorizons\bin\Debug\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\leonardo_bk\ProyectoFinalNewHorizons\bin\Debug\Swashbuckle.AspNetCore.Swagger.dll
+E:\leonardo_bk\ProyectoFinalNewHorizons\bin\Debug\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\leonardo_bk\ProyectoFinalNewHorizons\bin\Debug\Microsoft.EntityFrameworkCore.dll
+E:\leonardo_bk\ProyectoFinalNewHorizons\bin\Debug\Muchik.Market.Pay.Application.dll
+E:\leonardo_bk\ProyectoFinalNewHorizons\bin\Debug\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\leonardo_bk\ProyectoFinalNewHorizons\bin\Debug\Muchik.Market.Pay.Infrastructure.dll
+E:\leonardo_bk\ProyectoFinalNewHorizons\bin\Debug\Muchik.Market.Pay.Domain.dll
+E:\leonardo_bk\ProyectoFinalNewHorizons\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\leonardo_bk\ProyectoFinalNewHorizons\bin\Debug\MySql.EntityFrameworkCore.dll
+E:\leonardo_bk\ProyectoFinalNewHorizons\bin\Debug\Muchik.Market.Transaction.Application.dll
+E:\leonardo_bk\ProyectoFinalNewHorizons\bin\Debug\Muchik.Market.Transaction.Infrastructure.dll
+E:\leonardo_bk\ProyectoFinalNewHorizons\bin\Debug\Muchik.Market.Transaction.Domain.dll
+E:\leonardo_bk\ProyectoFinalNewHorizons\bin\Debug\Microsoft.OpenApi.dll
+E:\leonardo_bk\ProyectoFinalNewHorizons\bin\Debug\Microsoft.Extensions.Options.dll
+E:\leonardo_bk\ProyectoFinalNewHorizons\bin\Debug\System.Text.Json.dll
+E:\leonardo_bk\ProyectoFinalNewHorizons\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\leonardo_bk\ProyectoFinalNewHorizons\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+E:\leonardo_bk\ProyectoFinalNewHorizons\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\leonardo_bk\ProyectoFinalNewHorizons\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\leonardo_bk\ProyectoFinalNewHorizons\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+E:\leonardo_bk\ProyectoFinalNewHorizons\bin\Debug\Microsoft.Extensions.Logging.dll
+E:\leonardo_bk\ProyectoFinalNewHorizons\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+E:\leonardo_bk\ProyectoFinalNewHorizons\bin\Debug\AutoMapper.dll
+E:\leonardo_bk\ProyectoFinalNewHorizons\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+E:\leonardo_bk\ProyectoFinalNewHorizons\bin\Debug\MySql.Data.dll
+E:\leonardo_bk\ProyectoFinalNewHorizons\bin\Debug\System.Text.Encodings.Web.dll
+E:\leonardo_bk\ProyectoFinalNewHorizons\bin\Debug\Google.Protobuf.dll
+E:\leonardo_bk\ProyectoFinalNewHorizons\bin\Debug\ZstdSharp.dll
+E:\leonardo_bk\ProyectoFinalNewHorizons\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\leonardo_bk\ProyectoFinalNewHorizons\bin\Debug\BouncyCastle.Crypto.dll
+E:\leonardo_bk\ProyectoFinalNewHorizons\bin\Debug\System.Security.Permissions.dll
+E:\leonardo_bk\ProyectoFinalNewHorizons\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\leonardo_bk\ProyectoFinalNewHorizons\bin\Debug\K4os.Compression.LZ4.dll
+E:\leonardo_bk\ProyectoFinalNewHorizons\bin\Debug\System.IO.Pipelines.dll
+E:\leonardo_bk\ProyectoFinalNewHorizons\bin\Debug\K4os.Hash.xxHash.dll
+E:\leonardo_bk\ProyectoFinalNewHorizons\bin\Debug\System.Windows.Extensions.dll
+E:\leonardo_bk\ProyectoFinalNewHorizons\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+E:\leonardo_bk\ProyectoFinalNewHorizons\bin\Debug\Muchik.Market.Gateway.API.pdb
+E:\leonardo_bk\ProyectoFinalNewHorizons\bin\Debug\Muchik.Market.Invoice.API.pdb
+E:\leonardo_bk\ProyectoFinalNewHorizons\bin\Debug\Muchik.Market.Pay.API.pdb
+E:\leonardo_bk\ProyectoFinalNewHorizons\bin\Debug\Muchik.Market.Security.API.pdb
+E:\leonardo_bk\ProyectoFinalNewHorizons\bin\Debug\Muchik.Market.Transaction.API.pdb
+E:\leonardo_bk\ProyectoFinalNewHorizons\bin\Debug\Muchik.Market.Pay.Application.pdb
+E:\leonardo_bk\ProyectoFinalNewHorizons\bin\Debug\Muchik.Market.Pay.Infrastructure.pdb
+E:\leonardo_bk\ProyectoFinalNewHorizons\bin\Debug\Muchik.Market.Pay.Domain.pdb
+E:\leonardo_bk\ProyectoFinalNewHorizons\bin\Debug\Muchik.Market.Transaction.Application.pdb
+E:\leonardo_bk\ProyectoFinalNewHorizons\bin\Debug\Muchik.Market.Transaction.Infrastructure.pdb
+E:\leonardo_bk\ProyectoFinalNewHorizons\bin\Debug\Muchik.Market.Transaction.Domain.pdb
+E:\leonardo_bk\ProyectoFinalNewHorizons\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+E:\leonardo_bk\ProyectoFinalNewHorizons\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+E:\leonardo_bk\ProyectoFinalNewHorizons\obj\Debug\docker-compose.dcproj.CopyComplete
+E:\leonardo_bk\ProyectoFinalNewHorizons\bin\Debug\Muchik.Market.Security.Application.dll
+E:\leonardo_bk\ProyectoFinalNewHorizons\bin\Debug\Muchik.Market.Security.Infrastructure.dll
+E:\leonardo_bk\ProyectoFinalNewHorizons\bin\Debug\Muchik.Market.Security.Infrastructure.CrossCutting.dll
+E:\leonardo_bk\ProyectoFinalNewHorizons\bin\Debug\Muchik.Market.Security.Domain.dll
+E:\leonardo_bk\ProyectoFinalNewHorizons\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\leonardo_bk\ProyectoFinalNewHorizons\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+E:\leonardo_bk\ProyectoFinalNewHorizons\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+E:\leonardo_bk\ProyectoFinalNewHorizons\bin\Debug\BCrypt.Net-Next.dll
+E:\leonardo_bk\ProyectoFinalNewHorizons\bin\Debug\Microsoft.Data.SqlClient.dll
+E:\leonardo_bk\ProyectoFinalNewHorizons\bin\Debug\Microsoft.IdentityModel.Logging.dll
+E:\leonardo_bk\ProyectoFinalNewHorizons\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+E:\leonardo_bk\ProyectoFinalNewHorizons\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\leonardo_bk\ProyectoFinalNewHorizons\bin\Debug\Microsoft.Identity.Client.dll
+E:\leonardo_bk\ProyectoFinalNewHorizons\bin\Debug\Muchik.Market.Security.Application.pdb
+E:\leonardo_bk\ProyectoFinalNewHorizons\bin\Debug\Muchik.Market.Security.Infrastructure.pdb
+E:\leonardo_bk\ProyectoFinalNewHorizons\bin\Debug\Muchik.Market.Security.Infrastructure.CrossCutting.pdb
+E:\leonardo_bk\ProyectoFinalNewHorizons\bin\Debug\Muchik.Market.Security.Domain.pdb

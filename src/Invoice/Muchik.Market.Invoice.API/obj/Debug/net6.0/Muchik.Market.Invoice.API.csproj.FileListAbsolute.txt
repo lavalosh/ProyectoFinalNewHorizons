@@ -62,3 +62,35 @@ D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\Proye
 D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Invoice\Muchik.Market.Invoice.API\obj\Debug\net6.0\Muchik.Market.Invoice.API.pdb
 D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Invoice\Muchik.Market.Invoice.API\obj\Debug\net6.0\Muchik.Market.Invoice.API.genruntimeconfig.cache
 D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Invoice\Muchik.Market.Invoice.API\obj\Debug\net6.0\ref\Muchik.Market.Invoice.API.dll
+E:\leonardo_bk\ProyectoFinalNewHorizons\src\Invoice\Muchik.Market.Invoice.API\bin\Debug\net6.0\appsettings.Development.json
+E:\leonardo_bk\ProyectoFinalNewHorizons\src\Invoice\Muchik.Market.Invoice.API\bin\Debug\net6.0\appsettings.json
+E:\leonardo_bk\ProyectoFinalNewHorizons\src\Invoice\Muchik.Market.Invoice.API\bin\Debug\net6.0\Muchik.Market.Invoice.API.exe
+E:\leonardo_bk\ProyectoFinalNewHorizons\src\Invoice\Muchik.Market.Invoice.API\bin\Debug\net6.0\Muchik.Market.Invoice.API.deps.json
+E:\leonardo_bk\ProyectoFinalNewHorizons\src\Invoice\Muchik.Market.Invoice.API\bin\Debug\net6.0\Muchik.Market.Invoice.API.runtimeconfig.json
+E:\leonardo_bk\ProyectoFinalNewHorizons\src\Invoice\Muchik.Market.Invoice.API\bin\Debug\net6.0\Muchik.Market.Invoice.API.dll
+E:\leonardo_bk\ProyectoFinalNewHorizons\src\Invoice\Muchik.Market.Invoice.API\bin\Debug\net6.0\Muchik.Market.Invoice.API.pdb
+E:\leonardo_bk\ProyectoFinalNewHorizons\src\Invoice\Muchik.Market.Invoice.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\leonardo_bk\ProyectoFinalNewHorizons\src\Invoice\Muchik.Market.Invoice.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\leonardo_bk\ProyectoFinalNewHorizons\src\Invoice\Muchik.Market.Invoice.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\leonardo_bk\ProyectoFinalNewHorizons\src\Invoice\Muchik.Market.Invoice.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\leonardo_bk\ProyectoFinalNewHorizons\src\Invoice\Muchik.Market.Invoice.API\obj\Debug\net6.0\Muchik.Market.Invoice.API.csproj.AssemblyReference.cache
+E:\leonardo_bk\ProyectoFinalNewHorizons\src\Invoice\Muchik.Market.Invoice.API\obj\Debug\net6.0\Muchik.Market.Invoice.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\leonardo_bk\ProyectoFinalNewHorizons\src\Invoice\Muchik.Market.Invoice.API\obj\Debug\net6.0\Muchik.Market.Invoice.API.AssemblyInfoInputs.cache
+E:\leonardo_bk\ProyectoFinalNewHorizons\src\Invoice\Muchik.Market.Invoice.API\obj\Debug\net6.0\Muchik.Market.Invoice.API.AssemblyInfo.cs
+E:\leonardo_bk\ProyectoFinalNewHorizons\src\Invoice\Muchik.Market.Invoice.API\obj\Debug\net6.0\Muchik.Market.Invoice.API.csproj.CoreCompileInputs.cache
+E:\leonardo_bk\ProyectoFinalNewHorizons\src\Invoice\Muchik.Market.Invoice.API\obj\Debug\net6.0\Muchik.Market.Invoice.API.MvcApplicationPartsAssemblyInfo.cs
+E:\leonardo_bk\ProyectoFinalNewHorizons\src\Invoice\Muchik.Market.Invoice.API\obj\Debug\net6.0\Muchik.Market.Invoice.API.MvcApplicationPartsAssemblyInfo.cache
+E:\leonardo_bk\ProyectoFinalNewHorizons\src\Invoice\Muchik.Market.Invoice.API\obj\Debug\net6.0\staticwebassets\msbuild.Muchik.Market.Invoice.API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\leonardo_bk\ProyectoFinalNewHorizons\src\Invoice\Muchik.Market.Invoice.API\obj\Debug\net6.0\staticwebassets\msbuild.build.Muchik.Market.Invoice.API.props
+E:\leonardo_bk\ProyectoFinalNewHorizons\src\Invoice\Muchik.Market.Invoice.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Muchik.Market.Invoice.API.props
+E:\leonardo_bk\ProyectoFinalNewHorizons\src\Invoice\Muchik.Market.Invoice.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Muchik.Market.Invoice.API.props
+E:\leonardo_bk\ProyectoFinalNewHorizons\src\Invoice\Muchik.Market.Invoice.API\obj\Debug\net6.0\staticwebassets.pack.json
+E:\leonardo_bk\ProyectoFinalNewHorizons\src\Invoice\Muchik.Market.Invoice.API\obj\Debug\net6.0\staticwebassets.build.json
+E:\leonardo_bk\ProyectoFinalNewHorizons\src\Invoice\Muchik.Market.Invoice.API\obj\Debug\net6.0\staticwebassets.development.json
+E:\leonardo_bk\ProyectoFinalNewHorizons\src\Invoice\Muchik.Market.Invoice.API\obj\Debug\net6.0\scopedcss\bundle\Muchik.Market.Invoice.API.styles.css
+E:\leonardo_bk\ProyectoFinalNewHorizons\src\Invoice\Muchik.Market.Invoice.API\obj\Debug\net6.0\Muchik.Market.Invoice.API.csproj.CopyComplete
+E:\leonardo_bk\ProyectoFinalNewHorizons\src\Invoice\Muchik.Market.Invoice.API\obj\Debug\net6.0\Muchik.Market.Invoice.API.dll
+E:\leonardo_bk\ProyectoFinalNewHorizons\src\Invoice\Muchik.Market.Invoice.API\obj\Debug\net6.0\refint\Muchik.Market.Invoice.API.dll
+E:\leonardo_bk\ProyectoFinalNewHorizons\src\Invoice\Muchik.Market.Invoice.API\obj\Debug\net6.0\Muchik.Market.Invoice.API.pdb
+E:\leonardo_bk\ProyectoFinalNewHorizons\src\Invoice\Muchik.Market.Invoice.API\obj\Debug\net6.0\Muchik.Market.Invoice.API.genruntimeconfig.cache
+E:\leonardo_bk\ProyectoFinalNewHorizons\src\Invoice\Muchik.Market.Invoice.API\obj\Debug\net6.0\ref\Muchik.Market.Invoice.API.dll

@@ -21,3 +21,14 @@ D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\Proye
 D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Transaction\Muchik.Market.Transaction.Domain\obj\Debug\net6.0\refint\Muchik.Market.Transaction.Domain.dll
 D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Transaction\Muchik.Market.Transaction.Domain\obj\Debug\net6.0\Muchik.Market.Transaction.Domain.pdb
 D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Transaction\Muchik.Market.Transaction.Domain\obj\Debug\net6.0\ref\Muchik.Market.Transaction.Domain.dll
+E:\leonardo_bk\ProyectoFinalNewHorizons\src\Transaction\Muchik.Market.Transaction.Domain\bin\Debug\net6.0\Muchik.Market.Transaction.Domain.deps.json
+E:\leonardo_bk\ProyectoFinalNewHorizons\src\Transaction\Muchik.Market.Transaction.Domain\bin\Debug\net6.0\Muchik.Market.Transaction.Domain.dll
+E:\leonardo_bk\ProyectoFinalNewHorizons\src\Transaction\Muchik.Market.Transaction.Domain\bin\Debug\net6.0\Muchik.Market.Transaction.Domain.pdb
+E:\leonardo_bk\ProyectoFinalNewHorizons\src\Transaction\Muchik.Market.Transaction.Domain\obj\Debug\net6.0\Muchik.Market.Transaction.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\leonardo_bk\ProyectoFinalNewHorizons\src\Transaction\Muchik.Market.Transaction.Domain\obj\Debug\net6.0\Muchik.Market.Transaction.Domain.AssemblyInfoInputs.cache
+E:\leonardo_bk\ProyectoFinalNewHorizons\src\Transaction\Muchik.Market.Transaction.Domain\obj\Debug\net6.0\Muchik.Market.Transaction.Domain.AssemblyInfo.cs
+E:\leonardo_bk\ProyectoFinalNewHorizons\src\Transaction\Muchik.Market.Transaction.Domain\obj\Debug\net6.0\Muchik.Market.Transaction.Domain.csproj.CoreCompileInputs.cache
+E:\leonardo_bk\ProyectoFinalNewHorizons\src\Transaction\Muchik.Market.Transaction.Domain\obj\Debug\net6.0\Muchik.Market.Transaction.Domain.dll
+E:\leonardo_bk\ProyectoFinalNewHorizons\src\Transaction\Muchik.Market.Transaction.Domain\obj\Debug\net6.0\refint\Muchik.Market.Transaction.Domain.dll
+E:\leonardo_bk\ProyectoFinalNewHorizons\src\Transaction\Muchik.Market.Transaction.Domain\obj\Debug\net6.0\Muchik.Market.Transaction.Domain.pdb
+E:\leonardo_bk\ProyectoFinalNewHorizons\src\Transaction\Muchik.Market.Transaction.Domain\obj\Debug\net6.0\ref\Muchik.Market.Transaction.Domain.dll
