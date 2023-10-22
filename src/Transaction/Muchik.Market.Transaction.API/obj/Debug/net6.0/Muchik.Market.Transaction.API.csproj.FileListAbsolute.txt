@@ -73,7 +73,6 @@ D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\Proye
 D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Transaction\Muchik.Market.Transaction.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
 D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Transaction\Muchik.Market.Transaction.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
 D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Transaction\Muchik.Market.Transaction.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
-D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Transaction\Muchik.Market.Transaction.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
 D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Transaction\Muchik.Market.Transaction.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
 D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Transaction\Muchik.Market.Transaction.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Transaction\Muchik.Market.Transaction.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll

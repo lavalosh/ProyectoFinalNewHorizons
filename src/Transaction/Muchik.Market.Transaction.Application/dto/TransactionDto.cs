@@ -11,6 +11,7 @@ namespace Muchik.Market.Transaction.Application.dto
         public int TransaccionId { get; set; } 
         public int InvoiceId { get; set; }
         public decimal amount { get; set; }
+        public DateTime date { get; set; }
 
     }
 }

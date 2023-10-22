@@ -21,7 +21,7 @@ builder.Services.AddAutoMapper(typeof(EntityToDtoProfile), typeof(DtoToEntityPro
 //SQL Server
 builder.Services.AddDbContext<PaymentContext>(config =>
 {
-    config.UseMySQL(builder.Configuration.GetValue<string>("connectionStrings:MuchikConnection"));
+    config.UseMySQL(builder.Configuration.GetValue<string>("ConnectionStrings:connectionMysql"));
 });
 
 //RabbitMQ Settings

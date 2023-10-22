@@ -520,11 +520,11 @@
           }
         }
       },
-      "MySql.EntityFrameworkCore/7.0.5": {
+      "MySql.EntityFrameworkCore/6.0.16": {
         "type": "package",
         "dependencies": {
-          "Microsoft.EntityFrameworkCore": "7.0.5",
-          "Microsoft.EntityFrameworkCore.Relational": "7.0.5",
+          "Microsoft.EntityFrameworkCore": "6.0.16",
+          "Microsoft.EntityFrameworkCore.Relational": "6.0.16",
           "MySql.Data": "8.1.0"
         },
         "compile": {
@@ -1037,7 +1037,7 @@
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "7.0.12",
           "Muchik.Market.Pay.Domain": "1.0.0",
-          "MySql.EntityFrameworkCore": "7.0.5"
+          "MySql.EntityFrameworkCore": "6.0.16"
         },
         "compile": {
           "bin/placeholder/Muchik.Market.Pay.Infrastructure.dll": {}
@@ -2101,18 +2101,16 @@
         "runtimes/win-x64/native/krbcc64.dll"
       ]
     },
-    "MySql.EntityFrameworkCore/7.0.5": {
-      "sha512": "cgAuQZqGaqWm+7B7CZ1fIJrA4/V8JITFuRAC5FEWlhvZA0SM9pH7iYzaCla4gsk97n81ZBqLJyquUI5VTucG3w==",
+    "MySql.EntityFrameworkCore/6.0.16": {
+      "sha512": "0TliF2ZH4F0MdNApQGgOWyTcFbpTSgnkzWFP+1Z6Jf2yQlBH3Zza3UapeW3Ku+79du91B52+ZIqcgDAGBuAM7g==",
       "type": "package",
-      "path": "mysql.entityframeworkcore/7.0.5",
+      "path": "mysql.entityframeworkcore/6.0.16",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "lib/net6.0/MySql.EntityFrameworkCore.dll",
         "lib/net6.0/MySql.EntityFrameworkCore.xml",
-        "lib/net7.0/MySql.EntityFrameworkCore.dll",
-        "lib/net7.0/MySql.EntityFrameworkCore.xml",
-        "mysql.entityframeworkcore.7.0.5.nupkg.sha512",
+        "mysql.entityframeworkcore.6.0.16.nupkg.sha512",
         "mysql.entityframeworkcore.nuspec"
       ]
     },

@@ -8,7 +8,7 @@ namespace Muchik.Market.Transaction.Infrastructure.entityTypes
     {
         public void Configure(EntityTypeBuilder<TransactionEntity> builder)
         {
-            builder.ToTable("payment");
+            builder.ToTable("transaction");
 
             builder.Property(e => e.TransactionId).HasColumnName("id_transaction");
 
@@ -19,6 +19,10 @@ namespace Muchik.Market.Transaction.Infrastructure.entityTypes
             builder.Property(e => e.amount)
                 .HasColumnType("decimal(18, 2)")
                 .HasColumnName("amount");
+
+            builder.Property(e => e.date)
+             .HasColumnType("datetime")
+             .HasColumnName("date");
         }
     }
 }

@@ -6,5 +6,6 @@
         public int TransactionId { get; set; }
         public int InvoiceId { get; set; }
         public decimal amount { get; set; }
+        public DateTime date { get; set; }
     }
 }

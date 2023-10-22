@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "hPy7PDbqg0TKXUN0tvjtqme7A7YQm7Rwxvv+B/c6kDO6ri9MyH9d/0iomc6eNm3cZ4s6clKLguuejlklO6LASQ==",
+  "dgSpecHash": "YhSM+HegnVYpvxxUionrloJVs/gqIFT5Cy5wAvBtz/QYlhfz7RGFEB+pJ6pspVoGg7gBUgPO8gdCS9NnwIABSQ==",
   "success": true,
   "projectFilePath": "D:\\Martin Avalos\\Capacitaciones\\New Horizons\\Microservicios\\Proyecto Final\\ProyectoFinalNewHorizons\\src\\Pay\\Muchik.Market.Pay.Infrastructure\\Muchik.Market.Pay.Infrastructure.csproj",
   "expectedPackageFiles": [
@@ -30,7 +30,7 @@
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\mysql.data\\8.1.0\\mysql.data.8.1.0.nupkg.sha512",
-    "C:\\Users\\Usuario\\.nuget\\packages\\mysql.entityframeworkcore\\7.0.5\\mysql.entityframeworkcore.7.0.5.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\mysql.entityframeworkcore\\6.0.16\\mysql.entityframeworkcore.6.0.16.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\portable.bouncycastle\\1.9.0\\portable.bouncycastle.1.9.0.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\system.codedom\\4.4.0\\system.codedom.4.4.0.nupkg.sha512",
