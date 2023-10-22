@@ -38,3 +38,8 @@ E:\leonardo_bk\ProyectoFinalNewHorizons\src\Security\Muchik.Market.Security.Appl
 E:\leonardo_bk\ProyectoFinalNewHorizons\src\Security\Muchik.Market.Security.Application\obj\Debug\net6.0\Muchik.Market.Security.Application.csproj.CopyComplete
 E:\leonardo_bk\ProyectoFinalNewHorizons\src\Security\Muchik.Market.Security.Application\bin\Debug\net6.0\Muchik.Market.Infrastructure.CrossCutting.dll
 E:\leonardo_bk\ProyectoFinalNewHorizons\src\Security\Muchik.Market.Security.Application\bin\Debug\net6.0\Muchik.Market.Infrastructure.CrossCutting.pdb
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Security\Muchik.Market.Security.Application\bin\Debug\net6.0\Muchik.Market.Infrastructure.CrossCutting.dll
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Security\Muchik.Market.Security.Application\bin\Debug\net6.0\Muchik.Market.Security.Domain.dll
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Security\Muchik.Market.Security.Application\bin\Debug\net6.0\Muchik.Market.Infrastructure.CrossCutting.pdb
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Security\Muchik.Market.Security.Application\bin\Debug\net6.0\Muchik.Market.Security.Domain.pdb
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Security\Muchik.Market.Security.Application\obj\Debug\net6.0\Muchik.Market.Security.Application.csproj.CopyComplete

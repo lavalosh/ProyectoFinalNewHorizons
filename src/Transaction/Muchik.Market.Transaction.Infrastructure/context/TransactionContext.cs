@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using Muchik.Market.Transaction.Domain.entities;
 using Muchik.Market.Transaction.Infrastructure.entityTypes;
-using Muchik.Market.Pay.Infrastructure.context;
 
 namespace Muchik.Market.Transaction.Infrastructure.context
 {
@@ -11,7 +11,7 @@ namespace Muchik.Market.Transaction.Infrastructure.context
         {
         }
 
-        public virtual DbSet<TransactionContext> Transaction { get; set; } = null!;
+        public virtual DbSet<TransactionEntity> Transaction { get; set; } = null!;
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {

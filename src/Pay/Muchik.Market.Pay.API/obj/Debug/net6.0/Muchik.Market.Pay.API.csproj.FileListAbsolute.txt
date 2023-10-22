@@ -77,22 +77,12 @@ D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\Proye
 D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Pay\Muchik.Market.Pay.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
 D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Pay\Muchik.Market.Pay.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
 D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Pay\Muchik.Market.Pay.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
-D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Pay\Muchik.Market.Pay.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
 D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Pay\Muchik.Market.Pay.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
-D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Pay\Muchik.Market.Pay.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
 D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Pay\Muchik.Market.Pay.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
-D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Pay\Muchik.Market.Pay.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Pay\Muchik.Market.Pay.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
-D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Pay\Muchik.Market.Pay.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
-D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Pay\Muchik.Market.Pay.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
-D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Pay\Muchik.Market.Pay.API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
-D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Pay\Muchik.Market.Pay.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
 D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Pay\Muchik.Market.Pay.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
-D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Pay\Muchik.Market.Pay.API\bin\Debug\net6.0\Mono.TextTemplating.dll
 D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Pay\Muchik.Market.Pay.API\bin\Debug\net6.0\MySql.Data.dll
 D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Pay\Muchik.Market.Pay.API\bin\Debug\net6.0\MySql.EntityFrameworkCore.dll
 D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Pay\Muchik.Market.Pay.API\bin\Debug\net6.0\BouncyCastle.Crypto.dll
-D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Pay\Muchik.Market.Pay.API\bin\Debug\net6.0\System.CodeDom.dll
 D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Pay\Muchik.Market.Pay.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
 D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Pay\Muchik.Market.Pay.API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
 D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Pay\Muchik.Market.Pay.API\bin\Debug\net6.0\System.Drawing.Common.dll
@@ -210,3 +200,13 @@ E:\leonardo_bk\ProyectoFinalNewHorizons\src\Pay\Muchik.Market.Pay.API\obj\Debug\
 E:\leonardo_bk\ProyectoFinalNewHorizons\src\Pay\Muchik.Market.Pay.API\obj\Debug\net6.0\Muchik.Market.Pay.API.pdb
 E:\leonardo_bk\ProyectoFinalNewHorizons\src\Pay\Muchik.Market.Pay.API\obj\Debug\net6.0\Muchik.Market.Pay.API.genruntimeconfig.cache
 E:\leonardo_bk\ProyectoFinalNewHorizons\src\Pay\Muchik.Market.Pay.API\obj\Debug\net6.0\ref\Muchik.Market.Pay.API.dll
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Pay\Muchik.Market.Pay.API\bin\Debug\net6.0\Steeltoe.Common.dll
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Pay\Muchik.Market.Pay.API\bin\Debug\net6.0\Steeltoe.Common.Abstractions.dll
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Pay\Muchik.Market.Pay.API\bin\Debug\net6.0\Steeltoe.Common.Http.dll
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Pay\Muchik.Market.Pay.API\bin\Debug\net6.0\Steeltoe.Discovery.Abstractions.dll
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Pay\Muchik.Market.Pay.API\bin\Debug\net6.0\Steeltoe.Extensions.Configuration.Abstractions.dll
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Pay\Muchik.Market.Pay.API\bin\Debug\net6.0\Steeltoe.Extensions.Configuration.CloudFoundryBase.dll
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Pay\Muchik.Market.Pay.API\bin\Debug\net6.0\Steeltoe.Extensions.Configuration.ConfigServerBase.dll
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Pay\Muchik.Market.Pay.API\bin\Debug\net6.0\Steeltoe.Extensions.Configuration.ConfigServerCore.dll
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Pay\Muchik.Market.Pay.API\bin\Debug\net6.0\Steeltoe.Extensions.Configuration.PlaceholderBase.dll
+D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Pay\Muchik.Market.Pay.API\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll

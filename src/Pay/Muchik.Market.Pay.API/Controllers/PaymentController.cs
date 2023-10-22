@@ -15,7 +15,7 @@ namespace Muchik.Market.Pay.API.Controllers
             _paymentService = paymentService;
         }
 
-        [HttpPost]
+        [HttpPost("CreatePayment")]
         public IActionResult CreatePayment([FromBody] CreatePaymentDto createPaymentDto)
         {
             _paymentService.CreatePayment(createPaymentDto);

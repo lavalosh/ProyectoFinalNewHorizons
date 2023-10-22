@@ -5,9 +5,10 @@ using Muchik.Market.Pay.Infrastructure.context;
 using Muchik.Market.Pay.Infrastructure.repositories;
 using Microsoft.EntityFrameworkCore;
 using Muchik.Market.Pay.Application.mappings;
+using Steeltoe.Extensions.Configuration.ConfigServer;
 
 var builder = WebApplication.CreateBuilder(args);
-
+builder.AddConfigServer();
 // Add services to the container.
 
 builder.Services.AddControllers();
