@@ -1,35 +1,40 @@
 version: '3.4'
 
 services:
-  muchik.market.gateway.api:
-    image: ${DOCKER_REGISTRY-}muchikmarketgatewayapi
-    build:
-      context: .
-      dockerfile: src/Gateway/Muchik.Market.Gateway.API/Dockerfile
-
-  muchik.market.invoice.api:
-    image: ${DOCKER_REGISTRY-}muchikmarketinvoiceapi
-    build:
-      context: .
-      dockerfile: src/Invoice/Muchik.Market.Invoice.API/Dockerfile
-
-
-  muchik.market.pay.api:
-    image: ${DOCKER_REGISTRY-}muchikmarketpayapi
-    build:
-      context: .
-      dockerfile: src/Pay/Muchik.Market.Pay.API/Dockerfile
-
-
   muchik.market.security.api:
     image: ${DOCKER_REGISTRY-}muchikmarketsecurityapi
     build:
       context: .
       dockerfile: src/Security/Muchik.Market.Security.API/Dockerfile
 
+  # muchik.market.gateway.api:
+  #   image: ${DOCKER_REGISTRY-}muchikmarketgatewayapi
+  #   build:
+  #     context: .
+  #     dockerfile: src/Gateway/Muchik.Market.Gateway.API/Dockerfile
 
-  muchik.market.transaction.api:
-    image: ${DOCKER_REGISTRY-}muchikmarkettransactionapi
-    build:
-      context: .
-      dockerfile: src/Transaction/Muchik.Market.Transaction.API/Dockerfile
+  # muchik.market.invoice.api:
+  #   image: ${DOCKER_REGISTRY-}muchikmarketinvoiceapi
+  #   build:
+  #     context: .
+  #     dockerfile: src/Invoice/Muchik.Market.Invoice.API/Dockerfile
+
+
+  # muchik.market.pay.api:
+  #   image: ${DOCKER_REGISTRY-}muchikmarketpayapi
+  #   build:
+  #     context: .
+  #     dockerfile: src/Pay/Muchik.Market.Pay.API/Dockerfile
+
+
+  # muchik.market.transaction.api:
+  #   image: ${DOCKER_REGISTRY-}muchikmarkettransactionapi
+  #   build:
+  #     context: .
+  #     dockerfile: src/Transaction/Muchik.Market.Transaction.API/Dockerfile
+
+networks:
+  default:
+    external:
+      name: muchik-nw
+   

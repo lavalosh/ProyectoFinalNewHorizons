@@ -11,7 +11,7 @@
 	</ItemGroup>
 
 	<ItemGroup>
+		<ProjectReference Include="..\..\CrossCutting\Muchik.Market.Infrastructure.CrossCutting\Muchik.Market.Infrastructure.CrossCutting.csproj" />
 		<ProjectReference Include="..\Muchik.Market.Security.Domain\Muchik.Market.Security.Domain.csproj" />
-		<ProjectReference Include="..\Muchik.Market.Security.Infrastructure.CrossCutting\Muchik.Market.Security.Infrastructure.CrossCutting.csproj" />
 	</ItemGroup>
 </Project>

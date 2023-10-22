@@ -33,8 +33,8 @@ E:\leonardo_bk\ProyectoFinalNewHorizons\src\Security\Muchik.Market.Security.Appl
 E:\leonardo_bk\ProyectoFinalNewHorizons\src\Security\Muchik.Market.Security.Application\obj\Debug\net6.0\Muchik.Market.Security.Application.pdb
 E:\leonardo_bk\ProyectoFinalNewHorizons\src\Security\Muchik.Market.Security.Application\obj\Debug\net6.0\ref\Muchik.Market.Security.Application.dll
 E:\leonardo_bk\ProyectoFinalNewHorizons\src\Security\Muchik.Market.Security.Application\bin\Debug\net6.0\Muchik.Market.Security.Domain.dll
-E:\leonardo_bk\ProyectoFinalNewHorizons\src\Security\Muchik.Market.Security.Application\bin\Debug\net6.0\Muchik.Market.Security.Infrastructure.CrossCutting.dll
 E:\leonardo_bk\ProyectoFinalNewHorizons\src\Security\Muchik.Market.Security.Application\bin\Debug\net6.0\Muchik.Market.Security.Domain.pdb
-E:\leonardo_bk\ProyectoFinalNewHorizons\src\Security\Muchik.Market.Security.Application\bin\Debug\net6.0\Muchik.Market.Security.Infrastructure.CrossCutting.pdb
 E:\leonardo_bk\ProyectoFinalNewHorizons\src\Security\Muchik.Market.Security.Application\obj\Debug\net6.0\Muchik.Market.Security.Application.csproj.AssemblyReference.cache
 E:\leonardo_bk\ProyectoFinalNewHorizons\src\Security\Muchik.Market.Security.Application\obj\Debug\net6.0\Muchik.Market.Security.Application.csproj.CopyComplete
+E:\leonardo_bk\ProyectoFinalNewHorizons\src\Security\Muchik.Market.Security.Application\bin\Debug\net6.0\Muchik.Market.Infrastructure.CrossCutting.dll
+E:\leonardo_bk\ProyectoFinalNewHorizons\src\Security\Muchik.Market.Security.Application\bin\Debug\net6.0\Muchik.Market.Infrastructure.CrossCutting.pdb

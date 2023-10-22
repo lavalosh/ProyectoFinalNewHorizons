@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Kbvmz+BTarCmdC+mqkcUxHJ3QMF9ae6GJQJC/z/PiGtZxMytiDmRvIqhws4Nfw7Vh4p/Zx+fTrxfEyuAnDrOPA==",
+  "dgSpecHash": "LPfwQZfGzfdQGDQlQ0xM2C6st8eDJj1q1jo+HNfAIJf8WUdB7cqmN6dQG5fs6x3i500Xzlgk5DXRLCl22bbvuA==",
   "success": true,
   "projectFilePath": "E:\\leonardo_bk\\ProyectoFinalNewHorizons\\src\\Security\\Muchik.Market.Security.Infrastructure\\Muchik.Market.Security.Infrastructure.csproj",
   "expectedPackageFiles": [
@@ -18,6 +18,7 @@
     "C:\\Users\\ritua\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\ritua\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0\\microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
     "C:\\Users\\ritua\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\ritua\\.nuget\\packages\\microsoft.extensions.configuration.binder\\6.0.0\\microsoft.extensions.configuration.binder.6.0.0.nupkg.sha512",
     "C:\\Users\\ritua\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
     "C:\\Users\\ritua\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\ritua\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\microsoft.extensions.logging.7.0.0.nupkg.sha512",

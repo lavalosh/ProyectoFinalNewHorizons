@@ -1,0 +1,23 @@
+-- Desconectar red docker
+
+ docker network disconnect [NOMBRE_RED] [NOMBRE-DOCKER]
+
+-- Crear una red de docker 
+
+docker network create muchik-nw
+
+-- Conectar un docker a una red existente
+
+docker network connect muchik-nw local-mssql
+
+-- Verificar que el docker esté conectada a la red existente
+
+docker inspect local-mssql
+
+-- Crear imagen para SQL Server
+
+docker run --name "local-mssql" -e "ACCEPT_EULA=Y" -e "SA_PASSWORD=TrabajoFinalSQL123#" -p 1433:1433 -d mcr.microsoft.com/mssql/server
+
+-- Crear config-server con repositorio
+
+docker run --name muchik-config -p 8888:8888 -d steeltoeoss/config-server --spring-profiles.active=dev --spring.cloud.config.server.git.uri=https://github.com/gianfra901/ProyectoFinalNewHorizons-Settings

@@ -3,9 +3,13 @@ using Muchik.Market.Security.Application.Mapping;
 using Muchik.Market.Security.Application.Services;
 using Muchik.Market.Security.Infrastructure;
 using Muchik.Market.Security.Infrastructure.Context;
-using Muchik.Market.Security.Infrastructure.CrossCutting.Jwt;
+using Muchik.Market.Infrastructure.CrossCutting.Jwt;
+using Steeltoe.Extensions.Configuration.ConfigServer;
 
 var builder = WebApplication.CreateBuilder(args);
+
+builder.AddConfigServer();
+
 // Add services to the container.
 
 builder.Services.AddControllers();
@@ -32,11 +36,13 @@ var app = builder.Build();
 
 
 // Configure the HTTP request pipeline.
-if (app.Environment.IsDevelopment())
-{
-    app.UseSwagger();
-    app.UseSwaggerUI();
-}
+//if (app.Environment.IsDevelopment())
+//{
+//    app.UseSwagger();
+//    app.UseSwaggerUI();
+//}
+app.UseSwagger();
+app.UseSwaggerUI();
 
 app.UseHttpsRedirection();
 

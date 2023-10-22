@@ -11,10 +11,11 @@ public static class DependencyContainer
 {
     public static IServiceCollection AddInfrastructureSecurity(this IServiceCollection services, IConfiguration configuration)
     {
+        string connectionString = configuration.GetValue("connectionStrings:securityConnection", "Not Found");
         services.AddTransient<IUserRepository, UserRepository>();
         services.AddDbContext<SecurityContext>(opt =>
         {
-            opt.UseSqlServer(configuration.GetConnectionString("securityConnection"));
+            opt.UseSqlServer(connectionString);
         });
         return services;
     }
