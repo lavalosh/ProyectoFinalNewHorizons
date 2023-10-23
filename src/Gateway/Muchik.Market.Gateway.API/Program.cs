@@ -1,6 +1,8 @@
 using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.IdentityModel.Tokens;
 using Ocelot.DependencyInjection;
+using Ocelot.Middleware;
 using Ocelot.Provider.Polly;
 using Steeltoe.Discovery.Client;
 using Steeltoe.Extensions.Configuration.ConfigServer;
@@ -22,6 +24,10 @@ builder.Services.AddOcelot().AddPolly();
 //Consul
 builder.Services.AddDiscoveryClient();
 
+var issuer = builder.Configuration["jwtSettings:issuer"];
+var audience = builder.Configuration["jwtSettings:audience"];
+var secretKey = builder.Configuration["jwtSettings:secretKey"];
+
 builder.Services
     .AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
     .AddJwtBearer(opt =>
@@ -32,9 +38,9 @@ builder.Services
             ValidateAudience = true,
             ValidateLifetime = true,
             ValidateIssuerSigningKey = true,
-            ValidIssuer = builder.Configuration["jwtSettings:issuer"],
-            ValidAudience = builder.Configuration["jwtSettings:audience"],
-            IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(builder.Configuration["jwtSettings:secretKey"]))
+            ValidIssuer = issuer,
+            ValidAudience = audience,
+            IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(secretKey))
         };
     }
 );
@@ -45,6 +51,10 @@ var app = builder.Build();
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
+
+app.UseMiddleware<AuthorizationMiddleware>();
+
+app.UseOcelot().Wait();
 
 app.MapControllers();
 

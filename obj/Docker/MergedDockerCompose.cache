@@ -1,5 +1,19 @@
 name: dockercompose1644132656033587778
 services:
+  muchik.market.gateway.api:
+    build:
+      context: E:\Proyectos\leonardo_bk_v2\ProyectoFinalNewHorizons
+      dockerfile: src/Gateway/Muchik.Market.Gateway.API/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: dev
+    image: muchikmarketgatewayapi
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 80
+        published: "9500"
+        protocol: tcp
   muchik.market.invoice.api:
     build:
       context: E:\Proyectos\leonardo_bk_v2\ProyectoFinalNewHorizons
@@ -14,19 +28,6 @@ services:
         target: 80
         published: "5024"
         protocol: tcp
-    volumes:
-      - type: bind
-        source: C:\Users\ritua\AppData\Roaming/Microsoft/UserSecrets
-        target: /root/.microsoft/usersecrets
-        read_only: true
-        bind:
-          create_host_path: true
-      - type: bind
-        source: C:\Users\ritua\AppData\Roaming/ASP.NET/Https
-        target: /root/.aspnet/https
-        read_only: true
-        bind:
-          create_host_path: true
   muchik.market.security.api:
     build:
       context: E:\Proyectos\leonardo_bk_v2\ProyectoFinalNewHorizons
@@ -41,19 +42,6 @@ services:
         target: 80
         published: "5034"
         protocol: tcp
-    volumes:
-      - type: bind
-        source: C:\Users\ritua\AppData\Roaming/Microsoft/UserSecrets
-        target: /root/.microsoft/usersecrets
-        read_only: true
-        bind:
-          create_host_path: true
-      - type: bind
-        source: C:\Users\ritua\AppData\Roaming/ASP.NET/Https
-        target: /root/.aspnet/https
-        read_only: true
-        bind:
-          create_host_path: true
 networks:
   default:
     name: muchik-nw

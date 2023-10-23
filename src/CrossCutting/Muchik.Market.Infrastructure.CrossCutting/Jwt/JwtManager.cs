@@ -28,7 +28,8 @@ public class JwtManager : IJwtManager
         var claims = new[]
         {
                 new Claim(ClaimTypes.Sid, userId),
-                new Claim(ClaimTypes.Email, username)
+                new Claim(ClaimTypes.Email, username),
+                //new Claim("Role", "Admin")
             };
 
         var payload = new JwtPayload(issuer, audience, claims, DateTime.UtcNow, DateTime.UtcNow.AddSeconds(lifetime));
