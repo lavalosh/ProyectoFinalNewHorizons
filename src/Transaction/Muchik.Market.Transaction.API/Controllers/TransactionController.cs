@@ -5,7 +5,7 @@ using Muchik.Market.Transaction.Application.interfaces;
 namespace Muchik.Market.Transaction.API.Controllers
 {
     [ApiController]
-    [Route("[controller]")]
+    [Route("api/[controller]")]
     public class TransactionController : ControllerBase
     {
         private readonly ITransactionService _transactionService;

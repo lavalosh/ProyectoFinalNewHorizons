@@ -1,9 +1,10 @@
+using Microsoft.EntityFrameworkCore;
 using Muchik.Market.Infrastructure.repositories;
 using Muchik.Market.Transaction.Application.interfaces;
+using Muchik.Market.Transaction.Application.mappings;
 using Muchik.Market.Transaction.Application.services;
 using Muchik.Market.Transaction.Domain.interfaces;
 using Muchik.Market.Transaction.Infrastructure.context;
-using Muchik.Market.Transaction.Application.mappings;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -19,9 +20,10 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddAutoMapper(typeof(EntityToDtoProfile), typeof(DtoToEntityProfile));
 
 //SQL Server
+string connectionString = builder.Configuration.GetValue("connectionStrings:securityConnection", "Not Found");
 builder.Services.AddDbContext<TransactionContext>(config =>
 {
-    //config.UseMySQL(builder.Configuration.GetValue<string>("connectionStrings:MuchikConnection"));
+    config.UseSqlServer(connectionString);
 });
 
 //RabbitMQ Settings
