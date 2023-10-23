@@ -32,3 +32,14 @@ E:\leonardo_bk\ProyectoFinalNewHorizons\src\Invoice\Muchik.Market.Invoice.Domain
 E:\leonardo_bk\ProyectoFinalNewHorizons\src\Invoice\Muchik.Market.Invoice.Domain\obj\Debug\net6.0\refint\Muchik.Market.Invoice.Domain.dll
 E:\leonardo_bk\ProyectoFinalNewHorizons\src\Invoice\Muchik.Market.Invoice.Domain\obj\Debug\net6.0\Muchik.Market.Invoice.Domain.pdb
 E:\leonardo_bk\ProyectoFinalNewHorizons\src\Invoice\Muchik.Market.Invoice.Domain\obj\Debug\net6.0\ref\Muchik.Market.Invoice.Domain.dll
+E:\Proyectos\leonardo_bk_v2\ProyectoFinalNewHorizons\src\Invoice\Muchik.Market.Invoice.Domain\bin\Debug\net6.0\Muchik.Market.Invoice.Domain.deps.json
+E:\Proyectos\leonardo_bk_v2\ProyectoFinalNewHorizons\src\Invoice\Muchik.Market.Invoice.Domain\bin\Debug\net6.0\Muchik.Market.Invoice.Domain.dll
+E:\Proyectos\leonardo_bk_v2\ProyectoFinalNewHorizons\src\Invoice\Muchik.Market.Invoice.Domain\bin\Debug\net6.0\Muchik.Market.Invoice.Domain.pdb
+E:\Proyectos\leonardo_bk_v2\ProyectoFinalNewHorizons\src\Invoice\Muchik.Market.Invoice.Domain\obj\Debug\net6.0\Muchik.Market.Invoice.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Proyectos\leonardo_bk_v2\ProyectoFinalNewHorizons\src\Invoice\Muchik.Market.Invoice.Domain\obj\Debug\net6.0\Muchik.Market.Invoice.Domain.AssemblyInfoInputs.cache
+E:\Proyectos\leonardo_bk_v2\ProyectoFinalNewHorizons\src\Invoice\Muchik.Market.Invoice.Domain\obj\Debug\net6.0\Muchik.Market.Invoice.Domain.AssemblyInfo.cs
+E:\Proyectos\leonardo_bk_v2\ProyectoFinalNewHorizons\src\Invoice\Muchik.Market.Invoice.Domain\obj\Debug\net6.0\Muchik.Market.Invoice.Domain.csproj.CoreCompileInputs.cache
+E:\Proyectos\leonardo_bk_v2\ProyectoFinalNewHorizons\src\Invoice\Muchik.Market.Invoice.Domain\obj\Debug\net6.0\Muchik.Market.Invoice.Domain.dll
+E:\Proyectos\leonardo_bk_v2\ProyectoFinalNewHorizons\src\Invoice\Muchik.Market.Invoice.Domain\obj\Debug\net6.0\refint\Muchik.Market.Invoice.Domain.dll
+E:\Proyectos\leonardo_bk_v2\ProyectoFinalNewHorizons\src\Invoice\Muchik.Market.Invoice.Domain\obj\Debug\net6.0\Muchik.Market.Invoice.Domain.pdb
+E:\Proyectos\leonardo_bk_v2\ProyectoFinalNewHorizons\src\Invoice\Muchik.Market.Invoice.Domain\obj\Debug\net6.0\ref\Muchik.Market.Invoice.Domain.dll

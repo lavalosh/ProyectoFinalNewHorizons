@@ -45,3 +45,20 @@ E:\leonardo_bk\ProyectoFinalNewHorizons\src\Transaction\Muchik.Market.Transactio
 E:\leonardo_bk\ProyectoFinalNewHorizons\src\Transaction\Muchik.Market.Transaction.Infrastructure\obj\Debug\net6.0\ref\Muchik.Market.Transaction.Infrastructure.dll
 D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Transaction\Muchik.Market.Transaction.Infrastructure\bin\Debug\net6.0\Muchik.Market.Transaction.Infrastructure.runtimeconfig.json
 D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Transaction\Muchik.Market.Transaction.Infrastructure\obj\Debug\net6.0\Muchik.Market.Transaction.Infrastructure.genruntimeconfig.cache
+E:\Proyectos\leonardo_bk_v2\ProyectoFinalNewHorizons\src\Transaction\Muchik.Market.Transaction.Infrastructure\bin\Debug\net6.0\Muchik.Market.Transaction.Infrastructure.deps.json
+E:\Proyectos\leonardo_bk_v2\ProyectoFinalNewHorizons\src\Transaction\Muchik.Market.Transaction.Infrastructure\bin\Debug\net6.0\Muchik.Market.Transaction.Infrastructure.runtimeconfig.json
+E:\Proyectos\leonardo_bk_v2\ProyectoFinalNewHorizons\src\Transaction\Muchik.Market.Transaction.Infrastructure\bin\Debug\net6.0\Muchik.Market.Transaction.Infrastructure.dll
+E:\Proyectos\leonardo_bk_v2\ProyectoFinalNewHorizons\src\Transaction\Muchik.Market.Transaction.Infrastructure\bin\Debug\net6.0\Muchik.Market.Transaction.Infrastructure.pdb
+E:\Proyectos\leonardo_bk_v2\ProyectoFinalNewHorizons\src\Transaction\Muchik.Market.Transaction.Infrastructure\bin\Debug\net6.0\Muchik.Market.Transaction.Domain.dll
+E:\Proyectos\leonardo_bk_v2\ProyectoFinalNewHorizons\src\Transaction\Muchik.Market.Transaction.Infrastructure\bin\Debug\net6.0\Muchik.Market.Transaction.Domain.pdb
+E:\Proyectos\leonardo_bk_v2\ProyectoFinalNewHorizons\src\Transaction\Muchik.Market.Transaction.Infrastructure\obj\Debug\net6.0\Muchik.Market.Transaction.Infrastructure.csproj.AssemblyReference.cache
+E:\Proyectos\leonardo_bk_v2\ProyectoFinalNewHorizons\src\Transaction\Muchik.Market.Transaction.Infrastructure\obj\Debug\net6.0\Muchik.Market.Transaction.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Proyectos\leonardo_bk_v2\ProyectoFinalNewHorizons\src\Transaction\Muchik.Market.Transaction.Infrastructure\obj\Debug\net6.0\Muchik.Market.Transaction.Infrastructure.AssemblyInfoInputs.cache
+E:\Proyectos\leonardo_bk_v2\ProyectoFinalNewHorizons\src\Transaction\Muchik.Market.Transaction.Infrastructure\obj\Debug\net6.0\Muchik.Market.Transaction.Infrastructure.AssemblyInfo.cs
+E:\Proyectos\leonardo_bk_v2\ProyectoFinalNewHorizons\src\Transaction\Muchik.Market.Transaction.Infrastructure\obj\Debug\net6.0\Muchik.Market.Transaction.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Proyectos\leonardo_bk_v2\ProyectoFinalNewHorizons\src\Transaction\Muchik.Market.Transaction.Infrastructure\obj\Debug\net6.0\Muchik.Market.Transaction.Infrastructure.csproj.CopyComplete
+E:\Proyectos\leonardo_bk_v2\ProyectoFinalNewHorizons\src\Transaction\Muchik.Market.Transaction.Infrastructure\obj\Debug\net6.0\Muchik.Market.Transaction.Infrastructure.dll
+E:\Proyectos\leonardo_bk_v2\ProyectoFinalNewHorizons\src\Transaction\Muchik.Market.Transaction.Infrastructure\obj\Debug\net6.0\refint\Muchik.Market.Transaction.Infrastructure.dll
+E:\Proyectos\leonardo_bk_v2\ProyectoFinalNewHorizons\src\Transaction\Muchik.Market.Transaction.Infrastructure\obj\Debug\net6.0\Muchik.Market.Transaction.Infrastructure.pdb
+E:\Proyectos\leonardo_bk_v2\ProyectoFinalNewHorizons\src\Transaction\Muchik.Market.Transaction.Infrastructure\obj\Debug\net6.0\Muchik.Market.Transaction.Infrastructure.genruntimeconfig.cache
+E:\Proyectos\leonardo_bk_v2\ProyectoFinalNewHorizons\src\Transaction\Muchik.Market.Transaction.Infrastructure\obj\Debug\net6.0\ref\Muchik.Market.Transaction.Infrastructure.dll

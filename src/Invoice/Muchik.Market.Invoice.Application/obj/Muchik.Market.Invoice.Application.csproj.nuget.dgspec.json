@@ -1,24 +1,85 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Martin Avalos\\Capacitaciones\\New Horizons\\Microservicios\\Proyecto Final\\ProyectoFinalNewHorizons\\src\\Invoice\\Muchik.Market.Invoice.Application\\Muchik.Market.Invoice.Application.csproj": {}
+    "E:\\Proyectos\\leonardo_bk_v2\\ProyectoFinalNewHorizons\\src\\Invoice\\Muchik.Market.Invoice.Application\\Muchik.Market.Invoice.Application.csproj": {}
   },
   "projects": {
-    "D:\\Martin Avalos\\Capacitaciones\\New Horizons\\Microservicios\\Proyecto Final\\ProyectoFinalNewHorizons\\src\\Invoice\\Muchik.Market.Invoice.Application\\Muchik.Market.Invoice.Application.csproj": {
+    "E:\\Proyectos\\leonardo_bk_v2\\ProyectoFinalNewHorizons\\src\\Invoice\\Muchik.Market.Invoice.Application\\Muchik.Market.Invoice.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Martin Avalos\\Capacitaciones\\New Horizons\\Microservicios\\Proyecto Final\\ProyectoFinalNewHorizons\\src\\Invoice\\Muchik.Market.Invoice.Application\\Muchik.Market.Invoice.Application.csproj",
+        "projectUniqueName": "E:\\Proyectos\\leonardo_bk_v2\\ProyectoFinalNewHorizons\\src\\Invoice\\Muchik.Market.Invoice.Application\\Muchik.Market.Invoice.Application.csproj",
         "projectName": "Muchik.Market.Invoice.Application",
-        "projectPath": "D:\\Martin Avalos\\Capacitaciones\\New Horizons\\Microservicios\\Proyecto Final\\ProyectoFinalNewHorizons\\src\\Invoice\\Muchik.Market.Invoice.Application\\Muchik.Market.Invoice.Application.csproj",
-        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "D:\\Martin Avalos\\Capacitaciones\\New Horizons\\Microservicios\\Proyecto Final\\ProyectoFinalNewHorizons\\src\\Invoice\\Muchik.Market.Invoice.Application\\obj\\",
+        "projectPath": "E:\\Proyectos\\leonardo_bk_v2\\ProyectoFinalNewHorizons\\src\\Invoice\\Muchik.Market.Invoice.Application\\Muchik.Market.Invoice.Application.csproj",
+        "packagesPath": "C:\\Users\\ritua\\.nuget\\packages\\",
+        "outputPath": "E:\\Proyectos\\leonardo_bk_v2\\ProyectoFinalNewHorizons\\src\\Invoice\\Muchik.Market.Invoice.Application\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\ritua\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\Proyectos\\leonardo_bk_v2\\ProyectoFinalNewHorizons\\src\\Invoice\\Muchik.Market.Invoice.Domain\\Muchik.Market.Invoice.Domain.csproj": {
+                "projectPath": "E:\\Proyectos\\leonardo_bk_v2\\ProyectoFinalNewHorizons\\src\\Invoice\\Muchik.Market.Invoice.Domain\\Muchik.Market.Invoice.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Proyectos\\leonardo_bk_v2\\ProyectoFinalNewHorizons\\src\\Invoice\\Muchik.Market.Invoice.Domain\\Muchik.Market.Invoice.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Proyectos\\leonardo_bk_v2\\ProyectoFinalNewHorizons\\src\\Invoice\\Muchik.Market.Invoice.Domain\\Muchik.Market.Invoice.Domain.csproj",
+        "projectName": "Muchik.Market.Invoice.Domain",
+        "projectPath": "E:\\Proyectos\\leonardo_bk_v2\\ProyectoFinalNewHorizons\\src\\Invoice\\Muchik.Market.Invoice.Domain\\Muchik.Market.Invoice.Domain.csproj",
+        "packagesPath": "C:\\Users\\ritua\\.nuget\\packages\\",
+        "outputPath": "E:\\Proyectos\\leonardo_bk_v2\\ProyectoFinalNewHorizons\\src\\Invoice\\Muchik.Market.Invoice.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ritua\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -59,7 +120,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

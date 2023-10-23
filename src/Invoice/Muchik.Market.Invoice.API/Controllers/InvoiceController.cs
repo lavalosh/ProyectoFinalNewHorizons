@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Muchik.Market.Invoice.Application.Interfaces;
 
 namespace Muchik.Market.Invoice.API.Controllers;
 
@@ -6,14 +7,14 @@ namespace Muchik.Market.Invoice.API.Controllers;
 [ApiController]
 public class InvoiceController : ControllerBase
 {
-    //private readonly IInvoiceService _invoiceService;
-    //public InvoiceController(IInvoiceService invoiceService)
-    //{
-    //    _invoiceService = invoiceService;
-    //}
-    //[HttpGet("getAllInvoices")]
-    //public IActionResult GetAllInvoices()
-    //{
-    //    return Ok(_invoiceService.GetAllInvoices());
-    //}
+    private readonly IInvoiceService _invoiceService;
+    public InvoiceController(IInvoiceService invoiceService)
+    {
+        _invoiceService = invoiceService;
+    }
+    [HttpGet("getAllInvoices")]
+    public IActionResult GetAllInvoices()
+    {
+        return Ok(_invoiceService.GetAllInvoices());
+    }
 }

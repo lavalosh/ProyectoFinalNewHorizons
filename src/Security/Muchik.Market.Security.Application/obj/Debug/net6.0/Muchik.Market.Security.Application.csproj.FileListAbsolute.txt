@@ -43,3 +43,20 @@ D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\Proye
 D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Security\Muchik.Market.Security.Application\bin\Debug\net6.0\Muchik.Market.Infrastructure.CrossCutting.pdb
 D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Security\Muchik.Market.Security.Application\bin\Debug\net6.0\Muchik.Market.Security.Domain.pdb
 D:\Martin Avalos\Capacitaciones\New Horizons\Microservicios\Proyecto Final\ProyectoFinalNewHorizons\src\Security\Muchik.Market.Security.Application\obj\Debug\net6.0\Muchik.Market.Security.Application.csproj.CopyComplete
+E:\Proyectos\leonardo_bk_v2\ProyectoFinalNewHorizons\src\Security\Muchik.Market.Security.Application\bin\Debug\net6.0\Muchik.Market.Security.Application.deps.json
+E:\Proyectos\leonardo_bk_v2\ProyectoFinalNewHorizons\src\Security\Muchik.Market.Security.Application\bin\Debug\net6.0\Muchik.Market.Security.Application.dll
+E:\Proyectos\leonardo_bk_v2\ProyectoFinalNewHorizons\src\Security\Muchik.Market.Security.Application\bin\Debug\net6.0\Muchik.Market.Security.Application.pdb
+E:\Proyectos\leonardo_bk_v2\ProyectoFinalNewHorizons\src\Security\Muchik.Market.Security.Application\bin\Debug\net6.0\Muchik.Market.Infrastructure.CrossCutting.dll
+E:\Proyectos\leonardo_bk_v2\ProyectoFinalNewHorizons\src\Security\Muchik.Market.Security.Application\bin\Debug\net6.0\Muchik.Market.Security.Domain.dll
+E:\Proyectos\leonardo_bk_v2\ProyectoFinalNewHorizons\src\Security\Muchik.Market.Security.Application\bin\Debug\net6.0\Muchik.Market.Infrastructure.CrossCutting.pdb
+E:\Proyectos\leonardo_bk_v2\ProyectoFinalNewHorizons\src\Security\Muchik.Market.Security.Application\bin\Debug\net6.0\Muchik.Market.Security.Domain.pdb
+E:\Proyectos\leonardo_bk_v2\ProyectoFinalNewHorizons\src\Security\Muchik.Market.Security.Application\obj\Debug\net6.0\Muchik.Market.Security.Application.csproj.AssemblyReference.cache
+E:\Proyectos\leonardo_bk_v2\ProyectoFinalNewHorizons\src\Security\Muchik.Market.Security.Application\obj\Debug\net6.0\Muchik.Market.Security.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Proyectos\leonardo_bk_v2\ProyectoFinalNewHorizons\src\Security\Muchik.Market.Security.Application\obj\Debug\net6.0\Muchik.Market.Security.Application.AssemblyInfoInputs.cache
+E:\Proyectos\leonardo_bk_v2\ProyectoFinalNewHorizons\src\Security\Muchik.Market.Security.Application\obj\Debug\net6.0\Muchik.Market.Security.Application.AssemblyInfo.cs
+E:\Proyectos\leonardo_bk_v2\ProyectoFinalNewHorizons\src\Security\Muchik.Market.Security.Application\obj\Debug\net6.0\Muchik.Market.Security.Application.csproj.CoreCompileInputs.cache
+E:\Proyectos\leonardo_bk_v2\ProyectoFinalNewHorizons\src\Security\Muchik.Market.Security.Application\obj\Debug\net6.0\Muchik.Market.Security.Application.csproj.CopyComplete
+E:\Proyectos\leonardo_bk_v2\ProyectoFinalNewHorizons\src\Security\Muchik.Market.Security.Application\obj\Debug\net6.0\Muchik.Market.Security.Application.dll
+E:\Proyectos\leonardo_bk_v2\ProyectoFinalNewHorizons\src\Security\Muchik.Market.Security.Application\obj\Debug\net6.0\refint\Muchik.Market.Security.Application.dll
+E:\Proyectos\leonardo_bk_v2\ProyectoFinalNewHorizons\src\Security\Muchik.Market.Security.Application\obj\Debug\net6.0\Muchik.Market.Security.Application.pdb
+E:\Proyectos\leonardo_bk_v2\ProyectoFinalNewHorizons\src\Security\Muchik.Market.Security.Application\obj\Debug\net6.0\ref\Muchik.Market.Security.Application.dll
